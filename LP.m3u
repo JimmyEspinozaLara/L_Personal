@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/585
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
+http://premierchile.shop:8080/988966049tv/cmdgjw/250855
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
+http://premierchile.shop:8080/988966049tv/cmdgjw/250891
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
