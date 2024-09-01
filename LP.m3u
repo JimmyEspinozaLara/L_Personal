@@ -5,9 +5,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/585
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
 http://premierchile.shop:8080/988966049tv/cmdgjw/250855
-#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
 http://premierchile.shop:8080/988966049tv/cmdgjw/250891
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
@@ -165,6 +165,8 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/415
 http://premierchile.shop:8080/988966049tv/cmdgjw/416
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »4«
 http://premierchile.shop:8080/988966049tv/cmdgjw/417
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazonas Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="→ ENTRETENIMIENTO ←",ECU-Teleamazonas Quito (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8648
 #EXTINF:-1 tvg-id="" tvg-name="USA | USA Telemundo New York" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ ENTRETENIMIENTO ←",USA | USA Telemundo New York
 http://premierchile.shop:8080/988966049tv/cmdgjw/23656
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Philadelphia" tvg-logo="https://i.ibb.co/YtHy9F6/TELEUINDF.png" group-title="→ ENTRETENIMIENTO ←",Telemundo Philadelphia
