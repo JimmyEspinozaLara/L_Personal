@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
@@ -159,25 +160,22 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/417
 http://premierchile.shop:8080/988966049tv/cmdgjw/23656
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Philadelphia" tvg-logo="https://i.ibb.co/YtHy9F6/TELEUINDF.png" group-title="→ ENTRETENIMIENTO ←",Telemundo Philadelphia
 http://premierchile.shop:8080/988966049tv/cmdgjw/68090
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←",USA | NBC Telemundo
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ ENTRETENIMIENTO ←",USA | NBC Telemundo
 http://premierchile.shop:8080/988966049tv/cmdgjw/23434
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington" tvg-logo="" group-title="→ USA ←",US: NBC Washington
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington" tvg-logo="" group-title="→ ENTRETENIMIENTO ←",US: NBC Washington
 http://premierchile.shop:8080/988966049tv/cmdgjw/23474
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica FHD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←",Argentina - TV Publica FHD
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica FHD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica FHD
 http://premierchile.shop:8080/988966049tv/cmdgjw/16159
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←",Argentina - TV Publica HD
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica HD
 http://premierchile.shop:8080/988966049tv/cmdgjw/16160
-#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←",Argentina|| TELEFE HD
+#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ENTRETENIMIENTO ←",Argentina|| TELEFE HD
 http://premierchile.shop:8080/988966049tv/cmdgjw/61544
-#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ ENTRETENIMIENTO ←",COL• RCN (HD) »2«
 http://premierchile.shop:8080/988966049tv/cmdgjw/344
-#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »1«
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »1«
 http://premierchile.shop:8080/988966049tv/cmdgjw/47
-#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ CHILE ←",CL• CHV (HD) »2«
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »2«
 http://premierchile.shop:8080/988966049tv/cmdgjw/46
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones
 http://premierchile.shop:8080/988966049tv/cmdgjw/590
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones TV HD
