@@ -1,11 +1,27 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="6358d1169cb4a6b30bd14a6985f02045" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES ←",ESPN Premium HD
+http://168.197.196.98:9981/stream/channelid/382818403?profile=pass
+#EXTINF:-1 tvg-id="511131c1ef33f9052360ef5c16c10651" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN HD
+http://168.197.196.98:9981/stream/channelid/1093734737?profile=pass
+#EXTINF:-1 tvg-id="782a25a6583edb302bd7d1b594673bd1" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
+http://168.197.196.98:9981/stream/channelid/639969912?profile=pass
+#EXTINF:-1 tvg-id="6eee2c50a6cc9a7142f545f1ccf6b66c" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",ESPN 3 HD
+http://168.197.196.98:9981/stream/channelid/1345121902?profile=pass
+#EXTINF:-1 tvg-id="37f1089457d210d22eaf62b190d25af0" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",ESPN 4 HD
+http://168.197.196.98:9981/stream/channelid/336130359?profile=pass
 #EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES ←",Fox Sports HD
 http://168.197.196.98:9981/stream/channelid/781949579?profile=pass
 #EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES ←",Fox Sports 2 HD
 http://168.197.196.98:9981/stream/channelid/33594286?profile=pass
 #EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES ←",Fox Sports 3 HD
 http://168.197.196.98:9981/stream/channelid/2098149736?profile=pass
-
+#EXTINF:-1 tvg-id="837f81b3b8ce999bc149901cc3345285" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES ←",TNT Sports HD
+http://168.197.196.98:9981/stream/channelid/864124803?profile=pass
+#EXTINF:-1 tvg-id="a6ad668b20925e06b6146227eee80998" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+#EXTINF:-1 tvg-id="2bc191e030a510797c728c371ddeb769" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD Internacional
+http://45.232.176.17:8000/play/a02g
 #EXTINF:-1 tvg-id="" tvg-name="DirectTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
 #EXTINF:-1 tvg-id="" tvg-name="DirectTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV 2
@@ -30,6 +46,8 @@ http://190.0.241.181:8000/play/a02f/index.m3u8
 http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/585
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)*2" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)*2
+http://186.148.195.206:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
 http://premierchile.shop:8080/988966049tv/cmdgjw/250855
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
@@ -56,7 +74,10 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/565
 http://premierchile.shop:8080/988966049tv/cmdgjw/566
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/567
-
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
+http://190.0.241.181:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
@@ -617,3 +638,27 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/244
 http://premierchile.shop:8080/988966049tv/cmdgjw/245
 #EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »3«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »3«
 http://premierchile.shop:8080/988966049tv/cmdgjw/246
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 1 (e)(1080)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 1 (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/82060
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 2 (e)(720)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 2 (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84349
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 3 (e)(SD)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 3 (e)(SD)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/82068
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Zapping Sports EC (e)(1080)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Zapping Sports EC (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84125
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Copa Ecuador (e)(1080)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84793
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Copa Ecuador (e)(720)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84794
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="ECUADOR",ECU-Canal Del Futbol (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8623
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol (e)(720)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="ECUADOR",ECU-Canal Del Futbol (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8624
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol 2 (e)(1080)" tvg-logo="https://i.postimg.cc/Bb74kBWT/Canal-del-futbol-2.png" group-title="ECUADOR",ECU-Canal Del Futbol 2 (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88436
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol 2 (e)(720)" tvg-logo="https://i.postimg.cc/Bb74kBWT/Canal-del-futbol-2.png" group-title="ECUADOR",ECU-Canal Del Futbol 2 (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88437
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ECUADOR",ECU-Directv Sports (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88483
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ECUADOR",ECU-Directv Sports (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8625
