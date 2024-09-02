@@ -1,6 +1,19 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU
+http://190.0.241.181:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 2
+http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 3" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 3
+http://190.0.241.181:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 4" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 4
+http://186.148.195.206:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 5" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 5
+http://190.0.241.181:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 6" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 6
+http://190.0.241.181:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 7" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 7
+http://190.0.241.181:8000/play/a02j/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
