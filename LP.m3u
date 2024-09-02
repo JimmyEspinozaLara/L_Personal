@@ -1,27 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES ←",Fox Sports HD
+http://168.197.196.98:9981/stream/channelid/781949579?profile=pass
+#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES ←",Fox Sports 2 HD
+http://168.197.196.98:9981/stream/channelid/33594286?profile=pass
+#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES ←",Fox Sports 3 HD
+http://168.197.196.98:9981/stream/channelid/2098149736?profile=pass
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV 2
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV +" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES ←",DirectTV +
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU
+http://tv.proyectox.vip:8080/ariasana2/bJjysPu7eF/88483
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",Espn ECU
 http://190.0.241.181:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 2
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",Espn ECU 2
 http://190.0.241.181:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 3" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 3
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 3" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",Espn ECU 3
 http://190.0.241.181:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 4" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 4
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 4" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 4
 http://186.148.195.206:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 5" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 5
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 5" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 5
 http://190.0.241.181:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 6" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 6
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 6" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 6
 http://190.0.241.181:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn ECU 7" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="CANALES-DEPORTES",DEPORTES - Espn ECU 7
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 7" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 7
 http://190.0.241.181:8000/play/a02j/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/585
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
 http://premierchile.shop:8080/988966049tv/cmdgjw/250855
 #EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
 http://premierchile.shop:8080/988966049tv/cmdgjw/250891
+#EXTINF:-1 tvg-id="" tvg-name="⚽ FUTBOL ECUADOR | ECDF FHD" tvg-logo="https://st2.depositphotos.com/1905483/5698/i/450/depositphotos_56983035-stock-photo-flag-of-ecuador.jpg" group-title="→ DEPORTES ←",⚽ FUTBOL ECUADOR | ECDF FHD
+http://premierchile.shop:8080/988966049tv/cmdgjw/250893
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | ( Only Events )
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9568
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/568
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/569
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 1 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/561
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 2 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 2 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/562
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 3 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 3 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/563
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 4 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 4 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/564
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 5 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 5 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/565
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 6 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 6 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/566
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/567
+
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
