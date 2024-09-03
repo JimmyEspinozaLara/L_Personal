@@ -56,9 +56,27 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/250891
 http://premierchile.shop:8080/988966049tv/cmdgjw/250893
 #EXTINF:-1 tvg-id="" tvg-name="ECU | ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | ( Only Events )
 http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9568
-#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN PREMIUN CHIL HD
+http://186.148.195.206:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
+http://190.0.241.181:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 2 CHIL HD
+http://186.148.195.206:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 3 CHIL HD
+http://186.148.195.206:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 4 CHIL HD
+http://186.148.195.206:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 5 CHIL HD
+http://186.148.195.206:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 6 CHIL HD
+http://186.148.195.206:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 7 CHIL HD
+http://186.148.195.206:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://premierchile.shop:8080/988966049tv/cmdgjw/568
-#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE CLUBES BR (HD) »2«
 http://premierchile.shop:8080/988966049tv/cmdgjw/569
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 1 BR (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/561
@@ -74,10 +92,7 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/565
 http://premierchile.shop:8080/988966049tv/cmdgjw/566
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/567
-#EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
-http://190.0.241.181:8000/play/a03k/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
@@ -246,18 +261,28 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/68090
 http://premierchile.shop:8080/988966049tv/cmdgjw/23434
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington" tvg-logo="" group-title="→ ENTRETENIMIENTO ←",NBC Washington
 http://premierchile.shop:8080/988966049tv/cmdgjw/23474
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica FHD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica FHD
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica HD
+http://168.197.196.98:9981/stream/channelid/1475050013
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica FHD
 http://premierchile.shop:8080/988966049tv/cmdgjw/16159
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica HD
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica HD
 http://premierchile.shop:8080/988966049tv/cmdgjw/16160
+#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ENTRETENIMIENTO ←",Argentina|| TELEFE HD
+http://168.197.196.98:9981/stream/channelid/581244389
 #EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ENTRETENIMIENTO ←",Argentina|| TELEFE HD
 http://premierchile.shop:8080/988966049tv/cmdgjw/61544
 #EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ ENTRETENIMIENTO ←",COL• RCN (HD) »2«
 http://premierchile.shop:8080/988966049tv/cmdgjw/344
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ ENTRETENIMIENTO ←",COL• RCN (HD) 
+http://190.90.18.161:15082/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzp1DvQehXtEVDSGlUPy29mfhD4POepMzIQ&s" group-title="→ ENTRETENIMIENTO ←",COL• Caracol HD
+http://186.148.195.206:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »1«
 http://premierchile.shop:8080/988966049tv/cmdgjw/47
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/46
+http://186.148.195.206:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="→ ENTRETENIMIENTO ←",CL• MEGA HD
+http://186.148.195.206:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones
 http://premierchile.shop:8080/988966049tv/cmdgjw/590
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones TV HD
