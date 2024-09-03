@@ -58,22 +58,26 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/250893
 http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9568
 #EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN PREMIUN CHIL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD
+http://186.148.195.206:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="→ DEPORTES ←",ESPN PREMIUN CHIL HD
 http://186.148.195.206:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
 http://190.0.241.181:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 2 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 CHIL HD
 http://186.148.195.206:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 3 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",ESPN 3 CHIL HD
 http://186.148.195.206:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 4 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",ESPN 4 CHIL HD
 http://186.148.195.206:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 5 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES ←",ESPN 5 CHIL HD
 http://186.148.195.206:8000/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 6 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES ←",ESPN 6 CHIL HD
 http://186.148.195.206:8000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN 7 CHIL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png group-title="→ DEPORTES ←",ESPN 7 CHIL HD
 http://186.148.195.206:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES ←",TNT Sports CHIL HD
+http://186.148.195.206:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://premierchile.shop:8080/988966049tv/cmdgjw/568
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -92,7 +96,6 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/565
 http://premierchile.shop:8080/988966049tv/cmdgjw/566
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/567
-
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/372
 #EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
@@ -283,6 +286,8 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/47
 http://186.148.195.206:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="→ ENTRETENIMIENTO ←",CL• MEGA HD
 http://186.148.195.206:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="→ ENTRETENIMIENTO ←"" group-title="→ ENTRETENIMIENTO ←",Latina PE HD
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8450
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones
 http://premierchile.shop:8080/988966049tv/cmdgjw/590
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones TV HD
