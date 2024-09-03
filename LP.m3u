@@ -28,8 +28,14 @@ http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
 #EXTINF:-1 tvg-id="" tvg-name="DirectTV +" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES ←",DirectTV +
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU HD
 http://tv.proyectox.vip:8080/ariasana2/bJjysPu7eF/88483
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV ARG" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ARG HD
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9560
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV CHIL" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV CHIL HD
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9561
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV URU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV URU HD
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8530
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",Espn ECU
 http://190.0.241.181:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",Espn ECU 2
@@ -60,6 +66,8 @@ http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9568
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD
 http://186.148.195.206:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD*1
+http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="→ DEPORTES ←",ESPN PREMIUN CHIL HD
 http://186.148.195.206:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
