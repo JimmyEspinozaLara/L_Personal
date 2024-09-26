@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="6358d1169cb4a6b30bd14a6985f02045" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES ←",ESPN Premium HD
-http://168.197.196.98:9981/stream/channelid/382818403?profile=pass
+http://168.197.196.98:82/stream/channelid/382818403?profile=pass
 #EXTINF:-1 tvg-id="511131c1ef33f9052360ef5c16c10651" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN HD
-http://168.197.196.98:9981/stream/channelid/1093734737?profile=pass
+http://168.197.196.98:82/stream/channelid/1093734737?profile=pass
 #EXTINF:-1 tvg-id="782a25a6583edb302bd7d1b594673bd1" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
-http://168.197.196.98:9981/stream/channelid/639969912?profile=pass
+http://168.197.196.98:82/stream/channelid/639969912?profile=pass
 #EXTINF:-1 tvg-id="6eee2c50a6cc9a7142f545f1ccf6b66c" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",ESPN 3 HD
-http://168.197.196.98:9981/stream/channelid/1345121902?profile=pass
+http://168.197.196.98:82/stream/channelid/1345121902?profile=pass
 #EXTINF:-1 tvg-id="37f1089457d210d22eaf62b190d25af0" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",ESPN 4 HD
-http://168.197.196.98:9981/stream/channelid/336130359?profile=pass
+http://168.197.196.98:82/stream/channelid/336130359?profile=pass
 #EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES ←",Fox Sports HD
-http://168.197.196.98:9981/stream/channelid/781949579?profile=pass
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
 #EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES ←",Fox Sports 2 HD
-http://168.197.196.98:9981/stream/channelid/33594286?profile=pass
+http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
 #EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES ←",Fox Sports 3 HD
-http://168.197.196.98:9981/stream/channelid/2098149736?profile=pass
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
 #EXTINF:-1 tvg-id="837f81b3b8ce999bc149901cc3345285" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES ←",TNT Sports HD
-http://168.197.196.98:9981/stream/channelid/864124803?profile=pass
+http://168.197.196.98:82/stream/channelid/864124803?profile=pass
 #EXTINF:-1 tvg-id="a6ad668b20925e06b6146227eee80998" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD
-http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+http://168.197.196.98:82/stream/channelid/191278502?profile=pass
 #EXTINF:-1 tvg-id="2bc191e030a510797c728c371ddeb769" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD Internacional
 http://45.232.176.17:8000/play/a02g
 #EXTINF:-1 tvg-id="" tvg-name="DirectTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV
@@ -30,16 +30,12 @@ http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
 #EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU HD
 http://canal-pro.xyz:8080/56961501723wspzero/020322zero/250887
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU*2
-http://premierchile.shop:8080/988966049tv/cmdgjw/250887
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV ARG" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ARG HD
-http://premierchile.shop:8080/988966049tv/cmdgjw/480
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV URU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV URU HD
-http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8530
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV PE" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV PE HD
+http://187.102.208.83:50000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",Espn ECU
 http://190.0.241.181:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",Espn ECU 2
-http://190.0.241.181:8000/play/a06z/index.m3u8
+http://181.78.21.46:8000/play/a016
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 3" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",Espn ECU 3
 http://190.0.241.181:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 4" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 4
@@ -65,11 +61,13 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/250893
 #EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD
-http://186.148.195.206:8000/play/a04j/index.m3u8
+http://187.102.208.83:50000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD*1
+http://186.148.195.206:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="→ DEPORTES ←",Movistar Deportes HD*2
 http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="→ DEPORTES ←",ESPN PREMIUN CHIL HD
-http://186.148.195.206:8000/play/a05a/index.m3u8
+http://190.102.246.93:9005/play/a00x
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
 http://190.0.241.181:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 CHIL HD
@@ -104,76 +102,53 @@ http://premierchile.shop:8080/988966049tv/cmdgjw/565
 http://premierchile.shop:8080/988966049tv/cmdgjw/566
 #EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
 http://premierchile.shop:8080/988966049tv/cmdgjw/567
-#EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
-http://premierchile.shop:8080/988966049tv/cmdgjw/372
-#EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/370
-#EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »2«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/371
-#EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON CLÁSICO (HD)" tvg-logo="https://i.postimg.cc/jSNwFVbR/pngegg.png" group-title="→ INFANTILES ←",INF• NICKELODEON CLÁSICO (HD)
-http://premierchile.shop:8080/988966049tv/cmdgjw/61590
-#EXTINF:-1 tvg-id="" tvg-name="INF• TEEN NICK (HD) »1«" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←",INF• TEEN NICK (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/396
-#EXTINF:-1 tvg-id="" tvg-name="INF• TEEN NICK (HD) »2«" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←",INF• TEEN NICK (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/395
+
 #EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON (HD) »1«" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",INF• NICKELODEON (HD) »1«
-http://190.0.241.181:8000/play/a02a/index.m3u8
+http://187.102.208.83:50000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON (HD) »2«" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",INF• NICKELODEON (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/391
-#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »1«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/393
-#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »2«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/394
-#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »3«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/392
+http://190.102.246.93:9005/play/a02b
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »1«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61600
+http://190.102.246.93:9005/play/a01c
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »2«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61603
+http://187.102.208.83:50000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »3«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61599
+http://181.78.21.46:8000/play/a00i
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »1«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »1«
-http://168.197.196.98:9981/stream/channelid/1449652276?profile=pass
+http://190.102.246.93:9005/play/a01c
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »2«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/374
+http://191.52.214.5:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »3«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/375
+http://191.52.214.5:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »3«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »4«
+http://190.60.32.178:8178/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »1«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",INF• DISNEY JR (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/385
+http://181.78.21.46:8000/play/a011
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »2«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",INF• DISNEY JR (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/386
+http://187.102.208.83:50000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »1«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/376
+http://190.102.246.93:9005/play/a01k
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »2«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/377
+http://191.52.214.5:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »3«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/378
+http://191.52.214.5:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »1«
-http://190.0.241.181:8000/play/a07r/index.m3u8
+http://181.78.21.46:8000/play/a010
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »2«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »2«
-http://190.90.18.161:15082/play/a04w/index.m3u8
+http://187.102.208.83:50000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »3«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »3«
 http://premierchile.shop:8080/988966049tv/cmdgjw/384
 #EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »1«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/399
+http://181.78.21.46:8000/play/a03l
 #EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »2«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/398
-#EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »3«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/397
+http://187.102.208.83:50000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »1«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61598
-#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »2«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61597
-#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »3«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »3«
-http://premierchile.shop:8080/988966049tv/cmdgjw/61596
+http://181.78.21.46:8000/play/a02z
 #EXTINF:-1 tvg-id="" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←",CUL• LOVE NATURE (HD)
-http://premierchile.shop:8080/988966049tv/cmdgjw/451
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TRU TV (HD)" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ CULTURA ←",CUL• TRU TV (HD)
-http://premierchile.shop:8080/988966049tv/cmdgjw/450
+http://181.78.21.46:8000/play/a01p
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",CUL• EL GOURMET (HD) »1«
-http://premierchile.shop:8080/988966049tv/cmdgjw/427
+http://187.102.208.83:50000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »2«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",CUL• EL GOURMET (HD) »2«
-http://premierchile.shop:8080/988966049tv/cmdgjw/428
+http://190.102.246.93:9005/play/a03b
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »1«
 http://premierchile.shop:8080/988966049tv/cmdgjw/447
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »2«
