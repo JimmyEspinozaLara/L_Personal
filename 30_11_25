@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Disney.Channel.co",Discovery Channel
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11771.ts
+#EXTINF:-1 tvg-id="Animal.Planet.co",Animal Planet
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11764.ts
