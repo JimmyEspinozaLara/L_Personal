@@ -1,5 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Disney.Channel.co",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.co",Discovery Channel
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11771.ts
 #EXTINF:-1 tvg-id="Animal.Planet.co",Animal Planet
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11764.ts
+#EXTINF:-1 tvg-id="Discovery.H&amp;H.co",Discovery H&H
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11776.ts
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl",ID Discovery
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11782.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).ec",Discovery Science
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11777.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ec",Discovery Turbo
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11788.ts
+#EXTINF:-1 tvg-id="Canal.History.(Chile).ec",History
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11808.ts
+#EXTINF:-1 tvg-id="Canal.History.2.(Ecuador).ec",History 2
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11810.ts
+#EXTINF:-1 tvg-id="Nat.Geo.Mundo.us2",Nat geo Mundo
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11800.ts
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.(NatGeoWild).pe",Nat Geo Wild
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11803.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec",ESPN
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/20324.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Ecuador).ec",ESPN 2
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/20325.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec",ESPN 3
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/20326.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Ecuador).ec",ESPN 4
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/21457.ts
+#EXTINF:-1 tvg-id="ESPN.5.co",ESPN 5
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/17719.ts
+#EXTINF:-1 tvg-id="ESPN.6.HD.co",ESPN 6
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/92313.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Ecuador).sv",ESPN 7
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/17720.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_premium.png",ESPN Premium
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/14637.ts
+#EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT Premium
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11873.ts
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
+
+#EXTINF:-1 tvg-id="",
