@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Discovery.Channel.co",Discovery Channel
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl",Discovery Channel
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11771.ts
-#EXTINF:-1 tvg-id="Animal.Planet.co",Animal Planet
-http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11764.ts
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec",Animal Planet
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11761.ts
 #EXTINF:-1 tvg-id="Discovery.H&amp;H.co",Discovery H&H
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11776.ts
 #EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl",ID Discovery
@@ -11,7 +11,7 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11782.ts
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11777.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ec",Discovery Turbo
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11788.ts
-#EXTINF:-1 tvg-id="Canal.History.(Chile).ec",History
+#EXTINF:-1 tvg-id="History.Channel.co",History
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11808.ts
 #EXTINF:-1 tvg-id="Canal.History.2.(Ecuador).ec",History 2
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11810.ts
@@ -37,8 +37,18 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/17720.ts
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/14637.ts
 #EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT Premium
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11873.ts
-#EXTINF:-1 tvg-id="",
-
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co", Dsports
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9560.ts
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DSPORTS
+http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp", Dsports 2
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9565.ts
+#EXTINF:-1 tvg-id="" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/1/16/DSportsFight2022.png/revision/latest?cb=20231023211335&path-prefix=es",Dsports Fight
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9568.ts
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp",Dsports +
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9557.ts
+#EXTINF:-1 tvg-id="Canal.Comedy.Central.(Ecuador).ec",Comedy Central
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/18085.ts
 #EXTINF:-1 tvg-id="",
 
 #EXTINF:-1 tvg-id="",
