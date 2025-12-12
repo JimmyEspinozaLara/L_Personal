@@ -53,7 +53,7 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/18085.ts
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9667.ts
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9671.ts
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png",HBO 2
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11654.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Plus.sv",HBO+
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11646.ts
@@ -63,18 +63,18 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26321.ts
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26320.ts
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.sv",HBO Pop
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26319.ts
-#EXTINF:-1 tvg-id="",
-
-#EXTINF:-1 tvg-id="",
-
-#EXTINF:-1 tvg-id="",
-
-#EXTINF:-1 tvg-id="",
-
-#EXTINF:-1 tvg-id="",
-
-#EXTINF:-1 tvg-id="",
-
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(Panamá).pa",Star Channel
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/16457.ts
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv",Warner
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11621.ts
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.sv",Golden Plus
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11944.ts
+#EXTINF:-1 tvg-id="Canal.Paramount.Channel.Latinoamérica.sv",Paramount Channel
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11842.ts
+#EXTINF:-1 tvg-id="Canal.Space.(México).sv",Space
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11664.ts
+#EXTINF:-1 tvg-id="Canal.TNT.(MÃ©xico).sv",TNT
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11669.ts
 #EXTINF:-1 tvg-id="",
 
 #EXTINF:-1 tvg-id="",
