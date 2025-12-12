@@ -43,12 +43,26 @@ http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9560.ts
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp", Dsports 2
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9565.ts
-#EXTINF:-1 tvg-id="" tvg-logo"https://static.wikia.nocookie.net/logopedia/images/1/16/DSportsFight2022.png/revision/latest?cb=20231023211335&path-prefix=es",Dsports Fight
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/DSportsFight2022.png/revision/latest?cb=20231023211335&path-prefix=es",Dsports Fight
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9568.ts
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp",Dsports +
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9557.ts
 #EXTINF:-1 tvg-id="Canal.Comedy.Central.(Ecuador).ec",Comedy Central
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/18085.ts
+#EXTINF:-1 tvg-id="HBO.POP.(HBOPOP).pe",HBO
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9667.ts
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
+http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9671.ts
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv",HBO 2
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11654.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv",HBO+
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11646.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv",HBO Xtreme
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26321.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv",HBO Mundi
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26320.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.sv",HBO Pop
+http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/26319.ts
 #EXTINF:-1 tvg-id="",
 
 #EXTINF:-1 tvg-id="",
