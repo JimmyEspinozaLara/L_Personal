@@ -37,9 +37,9 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/17720.ts
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/14637.ts
 #EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT Premium
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11873.ts
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co", Dsports
+#EXTINF:-1 tvg-id="[SPOARHD].DSports.Argentina.HD.uy", Dsports
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9560.ts
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp",DSPORTS
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co",DSPORTS
 http://zorrohunter.com:8080/live/VmaqWzNsU4/6287355479/47094.ts
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp", Dsports 2
 http://tv.diablotv.net:8080/live/yadiyram2/F58rM7NQlM/9565.ts
@@ -73,7 +73,7 @@ http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11944.ts
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11842.ts
 #EXTINF:-1 tvg-id="Canal.Space.(México).sv",Space
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11664.ts
-#EXTINF:-1 tvg-id="Canal.TNT.(MÃ©xico).sv",TNT
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv",TNT
 http://kazan-tv.com:8091/live/AlePuerto/25Puerto06/11669.ts
 #EXTINF:-1 tvg-id="",
 
