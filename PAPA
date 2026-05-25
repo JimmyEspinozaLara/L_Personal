@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" ,ECUAVISA HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360509.ts
+#EXTINF:-1 tvg-id="Canal.RTS.ec" ,RTS HD HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360531.ts
+#EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" ,TELEAMAZONAS HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360512.ts
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" ,ECUADOR TV HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360520.ts
+#EXTINF:-1 tvg-id="Canal.Gamavisión.sv" ,GAMAVISIÓN HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360524.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360516.ts
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" ,TC TELEVISIÓN HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360518.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360528.ts
+#EXTINF:-1 tvg-id="Cartoon.Network.co" ,CARTOON NETWORK HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/132707.ts
+#EXTINF:-1 tvg-id="Nick.co" ,Nickelodeon HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/132711.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(República.Dominicana).do" tvg-name="Discovery Channel HD",Discovery Channel HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53457.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cl" tvg-name="DISCOVERY Science HD",DISCOVERY Science HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53464.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).cl" tvg-name="DISCOVERY Turbo HD" ,DISCOVERY Turbo HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53467.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.cl" tvg-name="DISCOVERY World SD",DISCOVERY World SD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53470.ts
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl",Discovery Investigation HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53462.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).sv" tvg-name="DISCOVERY Theater HD",DISCOVERY Theater HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53465.ts
+#EXTINF:-1 tvg-id="Canal.Elgourmet.cl" tvg-name="EL GOURMET",EL GOURMET HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53474.ts
+#EXTINF:-1 tvg-id="Canal.National.Geographic.(Chile).cl", NATGEO HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53491.ts
+#EXTINF:-1 tvg-id="History.Channel.co" tvg-name="HISTORY HD",HISTORY HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53481.ts
+#EXTINF:-1 tvg-id="History.2.co" ,History 2 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53483.ts
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Sur).sv" tvg-name="ANIMAL Planet HD." ,ANIMAL Planet HD.
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/114382.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Familia.sv" tvg-name="Discovery Familia HD" ,Discovery Familia HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53473.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Home.&.Health.(Colombia).sv" tvg-name="Discovery Home & Health HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lll98RXlbNuDY3pZng4dFZts8W9TCE097ZwED7AyZA&s=10",Discovery Home & Health HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53460.ts
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NATGEO WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzP4d0bowgYqDo9DlOwQ_2EyL7K8xqucdU8dq5lLLxQ&s=10", NATGEO WILD HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/54171.ts
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(Chile).cl" ,STAR CHANEL HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/436007.ts
+#EXTINF:-1 tvg-id="Canal.Cinema.mx" ,CINEMAX HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/435991.ts
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(Chile).cl" ,CINECANAL  HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1251.ts
+#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" ,CINE | HBO  HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/55.ts
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cl" ,HBO 2 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/435985.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.cl", HBO FAMILY  HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/52.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.cl", HBO PLUS  SD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/49.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.cl", HBO XTREME HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/47.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.cl", HBO POP HD 
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1242.ts
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.cl",HBO MUNDI HD 
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53937.ts
+#EXTINF:-1 tvg-id="Space.co",SPACE HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1281.ts
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv",GOLDEN PREMIER HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1293.ts
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).sv",WARNER HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1260.ts
+#EXTINF:-1 tvg-id="SONY.MOVIES.HD.uy",SONY MOVIES HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1261.ts
+#EXTINF:-1 tvg-id="",UNIVERSAL CINEMA HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/111421.ts
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv",UNIVERSAL PREMIER HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/111419.ts
+#EXTINF:-1 tvg-id="Canal.AMC.(Colombia).sv",AMC HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1284.ts
+#EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx",AMC SERIES HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/376321.ts
+#EXTINF:-1 tvg-id="Canal.TNT.Series.sv" ,TNT SERIES HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1248.ts
+#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" ,TNT HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/1245.ts
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" ,TELEMUNDO HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/346637.ts
+#EXTINF:-1 tvg-id="ESPN.co",ESPN 1HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360971.ts
+#EXTINF:-1 tvg-id="ESPN.2.co",ESPN 2HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360969.ts
+#EXTINF:-1 tvg-id="ESPN.3.co",ESPN 3 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360968.ts
+#EXTINF:-1 tvg-id="ESPN.4.co",ESPN 4 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/361020.ts
+#EXTINF:-1 tvg-id="ESPN.5.co",ESPN 5 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306392.ts
+#EXTINF:-1 tvg-id="ESPN.6.HD.co",ESPN 6
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/361022.ts
+#EXTINF:-1 tvg-id="ESPN.7.HD.co", ESPN 7 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/361023.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv",ESPN DEPORTES
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360941.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/250?cb=20220501173330&path-prefix=es",ESPN PREMIUM
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81254.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT SPORT Premium
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/81251.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/314939.ts
+#EXTINF:-1 tvg-id=" tvg-logo="http://mundo2.pro:80/images/3970b79549382c22cd994460a9218281.png", UFC HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306517.ts
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" , DSPORTS 1 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306883.ts
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306885.ts
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" , D$PORTS + HD
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306887.ts
