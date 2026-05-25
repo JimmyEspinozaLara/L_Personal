@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" ,ECUAVISA HD
 https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/e4ede1b7-7e3b-4325-b0bf-91aa89cb0a5b:CHS/variant/5184c51b1ffdf844da0e8f917256da50/bandwidth/2644431.m3u8
 #EXTINF:-1 tvg-id="Canal.RTS.ec" ,RTS HD HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360530.ts
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" ,TELEAMAZONAS HD
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" ,ECUADOR TV HD
