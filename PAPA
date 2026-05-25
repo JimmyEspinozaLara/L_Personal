@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" ,ECUAVISA HD
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" ,ECUAVISA HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360509.ts
 #EXTINF:-1 tvg-id="Canal.RTS.ec" ,RTS HD HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360531.ts
-#EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" ,TELEAMAZONAS HD
+#EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" ,TELEAMAZONAS HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360512.ts
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" ,ECUADOR TV HD
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" ,ECUADOR TV HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360520.ts
-#EXTINF:-1 tvg-id="Canal.Gamavisión.sv" ,GAMAVISIÓN HD
+#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" ,GAMAVISIÓN HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360524.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360516.ts
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" ,TC TELEVISIÓN HD
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" ,TC TELEVISIÓN HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360518.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360528.ts
