@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" ,ECUAVISA HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360509.ts
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/e4ede1b7-7e3b-4325-b0bf-91aa89cb0a5b:CHS/variant/5184c51b1ffdf844da0e8f917256da50/bandwidth/2644431.m3u8
 #EXTINF:-1 tvg-id="Canal.RTS.ec" ,RTS HD HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360530.ts
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" ,TELEAMAZONAS HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360512.ts
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" ,ECUADOR TV HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360520.ts
+https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Gamavisión.ec" ,GAMAVISIÓN HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360524.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360516.ts
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" ,TC TELEVISIÓN HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360518.ts
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(7nVYh22TcJh0CQ6kAXbe7ij1HzDe2bMytozf8Kf_IG-2I2iORCDSSZ1PlECKizMqo4PsCdzfpzVk0mpTWoA0QH0G4pVZWME5OBmmA9hJ0Pxv6V_1sevcehPKc0y87sHt)/cloud/3/x7wijay/s/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360528.ts
 #EXTINF:-1 tvg-id="Cartoon.Network.co" ,CARTOON NETWORK HD
