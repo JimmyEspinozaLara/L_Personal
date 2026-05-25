@@ -5,7 +5,7 @@ https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/e4ede1b
 #EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS HD HD
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Teleamazonas.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas.png",TELEAMAZONAS HD
+#EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas.png",TELEAMAZONAS HD
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv.png",ECUADOR TV HD
@@ -35,7 +35,7 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53457.ts
 #EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cl" tvg-name="DISCOVERY Science HD" tvg-logo="",DISCOVERY Science HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53464.ts
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).cl" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science.png",DISCOVERY Turbo HD
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).cl" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo.png",DISCOVERY Turbo HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53467.ts
 
 #EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.cl" tvg-name="DISCOVERY World SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world.png",DISCOVERY World SD
@@ -44,7 +44,7 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53470.ts
 #EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica.png",Discovery Investigation HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53462.ts
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).sv" tvg-name="DISCOVERY Theater HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo.png",DISCOVERY Theater HD
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).sv" tvg-name="DISCOVERY Theater HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater.png",DISCOVERY Theater HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53465.ts
 
 #EXTINF:-1 tvg-id="Canal.Elgourmet.cl" tvg-name="EL GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",EL GOURMET HD
