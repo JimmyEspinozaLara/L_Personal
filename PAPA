@@ -17,8 +17,11 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360524.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HxHuq7xgnqcMCpKJZMbPyfq8QT9KCUyjmA&s",TC TELEVISIÓN INTERNACIONAL
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360519.ts
+
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png",TC TELEVISIÓN HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/360542.ts
+http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360542.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360528.ts
