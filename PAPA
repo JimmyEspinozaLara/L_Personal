@@ -35,6 +35,9 @@ http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png",CARTOON NETWORK HD
 http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
 
+#EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",CARTOON NETWORK HD
+http://daleplaytv.vip:80/live/paola/*Paola-2021@/132707.ts
+
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png",Nickelodeon HD
 http://205.235.6.29:8000/play/a0z8/index.m3u8?hls
 
