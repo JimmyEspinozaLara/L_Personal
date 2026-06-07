@@ -105,37 +105,37 @@ http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1242.ts
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/53937.ts
 
 #EXTINF:-1 tvg-id="Space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",SPACE HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1281.ts
+http://8.243.126.131:8000/play/a0gz/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1293.ts
+http://8.243.126.131:8000/play/a0fn/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png",WARNER HD
 http://181.224.200.5:2277/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY.MOVIES.HD.uy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png",SONY MOVIES HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1261.ts
+#EXTINF:-1 tvg-id="SONY.MOVIES.HD..uy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png",SONY MOVIES HD
+http://8.243.126.131:8000/play/a06a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png",UNIVERSAL CINEMA HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/111421.ts
+http://8.243.126.131:8000/play/a0de/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png",UNIVERSAL PREMIER HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/111419.ts
+http://8.243.126.131:8000/play/a0iq/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.AMC.(Colombia).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1284.ts
+http://8.243.126.131:8000/play/a0e2/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/376321.ts
+http://8.243.126.131:8000/play/a0ld/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.TNT.Series.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png",TNT SERIES HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1248.ts
+http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_novelas_latinoamerica-mediano.png",TNT NOVELAS HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/360894.ts
+#EXTINF:-1 tvg-id="TNT.Novelas.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_novelas_latinoamerica-mediano.png",TNT NOVELAS HD
+http://8.243.126.131:8000/play/a0om/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.TNT.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",TNT HD
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1245.ts
+#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",TNT HD
+http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/346637.ts
@@ -180,9 +180,9 @@ http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/360941.ts
 http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT SPORT Premium
-http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/81251.ts
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
 http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
@@ -190,6 +190,9 @@ http://181.79.87.130:8000/play/a0ca/index.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ufc_network-mediano.png", UFC HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/306517.ts
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 1 (PE)HD
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 1 (ECU)HD
 http://177.10.184.193:8000/play/a0fc/index.m3u8
