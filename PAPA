@@ -29,7 +29,7 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/316941.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/360528.ts
 
-#EXTINF:-1 tvg-id="Canal.Tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST HD
+#EXTINF:-1 tvg-id="Canal.Tooncast.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST HD
 http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png",CARTOON NETWORK HD
@@ -39,10 +39,16 @@ http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
 http://daleplaytv.vip:80/live/paola/*Paola-2021@/132707.ts
 
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png",Nickelodeon HD
-http://205.235.6.29:8000/play/a0z8/index.m3u8?hls
+http://astra.fibernetisp.com.co/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="[ADSLA].Adult.Swim.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png",ADULT SWIM HD
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.BitMe.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme-mediano.png",BITME HD
+http://138.36.253.106:8066/play/a024/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",DRAGON BALL SUPER
+https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(República.Dominicana).do" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/53457.ts
