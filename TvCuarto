@@ -33,7 +33,7 @@ http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 http://205.235.6.29:8000/play/a0z8/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="[ADSLA].Adult.Swim.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png",ADULT SWIM HD
-http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
+http://190.7.19.197:232/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
 http://181.79.87.130:8000/play/a0aq/index.m3u8
@@ -143,6 +143,9 @@ http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/346637.ts
 #EXTINF:-1 tvg-id="Globo.br"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_globo_internacional-mediano.png",GLOBO (BRASIL) HD
 http://138.117.81.96:8000/play/a0ef/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN (MÉXICO) HD
+http://177.10.184.193:8000/play/a0dg/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN (CHILE) HD
 http://8.243.126.131:8000/play/a0nk/index.m3u8?hls
 
@@ -153,7 +156,7 @@ http://190.7.19.197:232/play/a03n/index.m3u8
 http://8.243.126.131:8000/play/a05q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN (COLOMBIA) 1HD
-https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+http://170.247.204.9:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2HD
 http://8.243.126.131:8000/play/a0nl/index.m3u8?hls
