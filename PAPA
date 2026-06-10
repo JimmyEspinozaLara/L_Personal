@@ -203,6 +203,12 @@ http://190.60.37.118:4000/play/a0ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 4
+http://38.224.231.47:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 5
+http://38.226.210.46:8000/play/A008/index.m3u8
+
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 1 HD
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306883.ts
 
