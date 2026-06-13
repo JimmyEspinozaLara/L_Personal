@@ -140,6 +140,12 @@ http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/346637.ts
 
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO HD
+http://177.10.184.193:8000/play/a0hp/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.La.1.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/la_1-mediano.png",LA 1 HD
+http://92.176.119.180:2095/play/a16x
+
 #EXTINF:-1 tvg-id="Globo.br"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_globo_internacional-mediano.png",GLOBO (BRASIL) HD
 http://138.117.81.96:8000/play/a0ef/index.m3u8
 
