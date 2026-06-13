@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS HD HD
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS HD HD
+http://190.60.52.28:5001/play/a0it/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS HD
 http://205.235.6.29:8000/play/a0yd/index.m3u8?hls
@@ -14,11 +14,11 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN HD
 http://205.235.6.29:8000/play/a0yf/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://181.79.87.130:8000/play/a0bs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/3840px-Logo_The_Simpsons.svg.png",THE SIMPSON
 http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/316941.ts
@@ -38,7 +38,7 @@ http://daleplaytv.vip:80/live/paola/*Paola-2021@/132707.ts
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png",Nickelodeon HD
 http://astra.fibernetisp.com.co/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png",ADULT SWIM HD
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
@@ -194,7 +194,13 @@ http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306517.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png", TYC SPORTS
 http://181.78.74.146:18000/play/a01e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png", TYC SPORTS opc 2
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Costa.Rica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX CR
+http://45.228.234.62:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
+http://45.228.234.62:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.210.105.10:8000/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
