@@ -200,19 +200,19 @@ http://45.228.234.62:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
 http://45.228.234.62:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.210.105.10:8000/play/a0ai/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTSHD9).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.252.215.33:8000/play/a082/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS COL
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS9).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS COL
 http://190.60.37.118:4000/play/a0ch
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
+#EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS7).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 4
+#EXTINF:-1 tvg-id="DIRECTV.Sports.5(DTS6).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 4
 http://38.224.231.47:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 5
