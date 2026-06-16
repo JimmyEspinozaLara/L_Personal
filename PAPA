@@ -41,7 +41,7 @@ http://astra.fibernetisp.com.co/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png",BITME HD
+#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-2" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
@@ -89,7 +89,7 @@ http://astra.fibernetisp.com.co/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",CINECANAL  HD
 http://astra.fibernetisp.com.co/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",CINE | HBO  HD
+#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-shift="+2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",CINE | HBO  HD
 http://8.243.126.131:8000/play/a0f3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://images.seeklogo.com/logo-png/17/2/hbo-logo-png_seeklogo-178109.png",CINE | HBO Opc 2 HD
