@@ -33,7 +33,7 @@ http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 http://astra.fibernetisp.com.co/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",CARTOON NETWORK HD
-http://daleplaytv.vip:80/live/paola/*Paola-2021@/132707.ts
+http://181.78.8.199:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png",Nickelodeon HD
 http://astra.fibernetisp.com.co/play/a071/index.m3u8
