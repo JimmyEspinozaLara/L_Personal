@@ -41,7 +41,7 @@ http://astra.fibernetisp.com.co/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://astra.fibernetisp.com.co/play/a0jl/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png",BITME HD
+#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
