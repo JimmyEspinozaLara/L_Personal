@@ -78,7 +78,7 @@ http://astra.fibernetisp.com.co/play/a05s/index.m3u8
 http://astra.fibernetisp.com.co/play/a0i8/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-logo="https://i.ibb.co/JWZDDTgv/star-channel.png",STAR CHANEL HD
-http://astra.fibernetisp.com.co/play/a061/index.m3u8
+http://181.78.14.26:4000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png",FX HD
 http://astra.fibernetisp.com.co/play/a05p/index.m3u8
