@@ -215,7 +215,7 @@ http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/306517.ts
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS opc2
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS FHD
 http://190.108.83.69:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="[DTVGEN].DirecTV.Generic.uy" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 1 opc3
@@ -224,13 +224,13 @@ http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 HD
 http://190.7.19.197:232/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 opc 2
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 FHD
 http://190.108.83.69:8000/play/a0c6/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", D$PORTS + HD
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="", D$PORTS + HD
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="", D$PORTS + FHD
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
