@@ -158,6 +158,9 @@ http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png",CARACOL HD
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Telefé.(Argentina).ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png",TELEFÉ HD
+http://190.7.19.197:232/play/a059/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.ESPN.(México).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN (MÉXICO) HD
 http://177.10.184.193:8000/play/a0dg/index.m3u8
 
@@ -203,7 +206,7 @@ http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",TNT SPORT Premium
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
 http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ufc_network-mediano.png", UFC HD
