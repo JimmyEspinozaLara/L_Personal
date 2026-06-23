@@ -1,252 +1,252 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png" group-title="Nacionales",ECUAVISA HD
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png" group-title="Nacionales",ECUAVISA HD
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS HD HD
+#EXTINF:-1 tvg-id="rts.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS HD
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png" group-title="Nacionales",TELEAMAZONAS HD
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png" group-title="Nacionales",TELEAMAZONAS HD
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png" group-title="Nacionales",ECUADOR TV HD
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png" group-title="Nacionales",ECUADOR TV HD
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png" group-title="Nacionales",GAMAVISIÓN HD
+#EXTINF:-1 tvg-id="gamavision.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png" group-title="Nacionales",GAMAVISIÓN HD
 http://205.235.6.29:8000/play/a0yf/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="Nacionales",TC TELEVISIÓN HD
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="Nacionales",TC TELEVISIÓN HD
 http://181.79.87.130:8000/play/a0bs/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png" group-title="Nacionales",OROMAR TV HD
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png" group-title="Nacionales",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png" group-title="Nacionales",TVC HD
+#EXTINF:-1 tvg-id="tvc.ec" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png" group-title="Nacionales",TVC HD
 https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="Internacionales",TELEMUNDO HD
+#EXTINF:-1 tvg-id="telemundo.us.1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="Internacionales",TELEMUNDO HD 1
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/346637.ts
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://www.murrayosorio.com/images/accolades/Telemundo_logo_2012.svg.png" group-title="Internacionales",TELEMUNDO HD
+#EXTINF:-1 tvg-id="telemundo.us.2" tvg-logo="https://www.murrayosorio.com/images/accolades/Telemundo_logo_2012.svg.png" group-title="Internacionales",TELEMUNDO HD 2
 http://177.10.184.193:8000/play/a0hp/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_globo_internacional-mediano.png" group-title="Internacionales",GLOBO (BRASIL) HD
+#EXTINF:-1 tvg-id="globo.br" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_globo_internacional-mediano.png" group-title="Internacionales",GLOBO (BRASIL) HD
 http://138.117.81.96:8000/play/a0ef/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="Internacionales",RCN HD
+#EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="Internacionales",RCN HD
 http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="Internacionales",CARACOL HD
+#EXTINF:-1 tvg-id="caracol.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="Internacionales",CARACOL HD
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Telefé.(Argentina).ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png" group-title="Internacionales",TELEFÉ HD
+#EXTINF:-1 tvg-id="telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png" group-title="Internacionales",TELEFÉ HD
 http://190.7.19.197:232/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png" group-title="Infantiles",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png" group-title="Infantiles",CARTOON NETWORK HD
 http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
 
-#EXTINF:-1 tvg-id="Canal.Tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" group-title="Infantiles",TOONCAST HD
+#EXTINF:-1 tvg-id="tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png" group-title="Infantiles",TOONCAST HD
 http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 
-#EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png" group-title="Infantiles",Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png" group-title="Infantiles",Nickelodeon HD
 http://astra.fibernetisp.com.co/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-id="[ADSLA].Adult.Swim.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",ADULT SWIM HD
+#EXTINF:-1 tvg-id="adultswim.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png" group-title="Entretenimiento",ADULT SWIM HD
 http://190.7.19.197:232/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="Documentales",Discovery Channel HD
 http://astra.fibernetisp.com.co/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).cl" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="Documentales",DISCOVERY Turbo HD
+#EXTINF:-1 tvg-id="discoveryturbo.cl" tvg-name="DISCOVERY Turbo HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="Documentales",DISCOVERY Turbo HD
 http://190.7.19.197:232/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.cl" tvg-name="DISCOVERY World HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="Documentales",DISCOVERY World SD
+#EXTINF:-1 tvg-id="discoveryworld.cl" tvg-name="DISCOVERY World HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="Documentales",DISCOVERY World SD
 http://8.243.126.131:8000/play/a0da/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="Documentales",Discovery Investigation HD
+#EXTINF:-1 tvg-id="investigationdiscovery.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="Documentales",Discovery Investigation HD
 http://8.243.126.131:8000/play/a066/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).sv" tvg-name="DISCOVERY Theater HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="Documentales",DISCOVERY Theater HD
+#EXTINF:-1 tvg-id="discoverytheater.sv" tvg-name="DISCOVERY Theater HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="Documentales",DISCOVERY Theater HD
 http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Elgourmet.cl" tvg-name="EL GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet-mediano.png" group-title="Entretenimiento",EL GOURMET HD
+#EXTINF:-1 tvg-id="elgourmet.cl" tvg-name="EL GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet-mediano.png" group-title="Entretenimiento",EL GOURMET HD
 http://8.243.126.131:8000/play/a0jq/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.National.Geographic.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="Documentales", NATGEO HD
+#EXTINF:-1 tvg-id="natgeo.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="Documentales", NATGEO HD
 http://8.243.126.131:8000/play/a05m/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="History.Channel.co" tvg-name="HISTORY HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/historia_espana-mediano.png" group-title="Documentales",HISTORY HD
+#EXTINF:-1 tvg-id="history.co" tvg-name="HISTORY HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/historia_espana-mediano.png" group-title="Documentales",HISTORY HD
 http://8.243.126.131:8000/play/a05d/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="History.2.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="Documentales",History 2 HD
+#EXTINF:-1 tvg-id="history2.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="Documentales",History 2 HD
 http://8.243.126.131:8000/play/a05u/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Sur).sv" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="Documentales",ANIMAL Planet HD.
+#EXTINF:-1 tvg-id="animalplanet.sv" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="Documentales",ANIMAL Planet HD.
 http://8.243.126.131:8000/play/a0dy/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Familia.sv" tvg-name="Discovery Familia HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_familia-mediano.png" group-title="Documentales",Discovery Familia HD
+#EXTINF:-1 tvg-id="discoveryfamilia.sv" tvg-name="Discovery Familia HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_familia-mediano.png" group-title="Documentales",Discovery Familia HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/53473.ts
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Home.&.Health.(Colombia).sv" tvg-name="Discovery Home & Health HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Home & Health HD
+#EXTINF:-1 tvg-id="discoveryhh.sv" tvg-name="Discovery Home & Health HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="Entretenimiento",Discovery Home & Health HD
 http://8.243.126.131:8000/play/a0il/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NATGEO WILD HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_wild-mediano.png" group-title="Documentales", NATGEO WILD HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/54171.ts
 
-#EXTINF:-1 tvg-id="Canal.Star.Channel.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="Películas y Series",STAR CHANEL HD
+#EXTINF:-1 tvg-id="starchannel.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="Películas y Series",STAR CHANEL HD
 http://8.243.126.131:8000/play/a0gg/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="Películas y Series",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemax.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="Películas y Series",CINEMAX HD
 http://138.36.253.106:8066/play/a01a/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Cinecanal.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="Películas y Series",CINECANAL  HD
+#EXTINF:-1 tvg-id="cinecanal.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="Películas y Series",CINECANAL HD
 http://8.243.126.131:8000/play/a061/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="Películas y Series",CINE | HBO  HD
+#EXTINF:-1 tvg-id="hbo.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="Películas y Series",CINE | HBO HD
 http://8.243.126.131:8000/play/a0f3/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="Películas y Series",HBO 2 HD
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="Películas y Series",HBO 2 HD
 http://8.243.126.131:8000/play/a05o/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="Películas y Series", HBO FAMILY  HD
+#EXTINF:-1 tvg-id="hbofamily.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="Películas y Series", HBO FAMILY HD
 http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="Películas y Series", HBO PLUS  HD
+#EXTINF:-1 tvg-id="hboplus.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="Películas y Series", HBO PLUS HD
 http://8.243.126.131:8000/play/a0f5/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="Películas y Series",HBO XTREME HD
+#EXTINF:-1 tvg-id="hboxtreme.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="Películas y Series",HBO XTREME HD
 http://8.243.126.131:8000/play/a0f7/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png" group-title="Películas y Series",HBO POP HD
+#EXTINF:-1 tvg-id="hbopop.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png" group-title="Películas y Series",HBO POP HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/1242.ts
 
-#EXTINF:-1 tvg-id="Canal.HBO.Mundi.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="Películas y Series",HBO MUNDI HD
+#EXTINF:-1 tvg-id="hbomundi.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="Películas y Series",HBO MUNDI HD
 http://38.224.231.47:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png" group-title="Películas y Series",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="hbosignature.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png" group-title="Películas y Series",HBO SIGNATURE HD
 http://38.224.231.47:8000/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="Películas y Series",SPACE HD
+#EXTINF:-1 tvg-id="space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="Películas y Series",SPACE HD
 http://8.243.126.131:8000/play/a0gz/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="Películas y Series",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-id="goldenpremier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="Películas y Series",GOLDEN PREMIER HD
 http://8.243.126.131:8000/play/a0fn/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="Películas y Series",WARNER HD
+#EXTINF:-1 tvg-id="warnertv.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="Películas y Series",WARNER HD
 http://181.224.200.5:2277/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY.MOVIES.HD..uy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="Películas y Series",SONY MOVIES HD
+#EXTINF:-1 tvg-id="sonymovies.uy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="Películas y Series",SONY MOVIES HD
 http://8.243.126.131:8000/play/a06a/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="Películas y Series",UNIVERSAL CINEMA HD
+#EXTINF:-1 tvg-id="universalcinema.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="Películas y Series",UNIVERSAL CINEMA HD
 http://8.243.126.131:8000/play/a0de/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="Películas y Series",UNIVERSAL PREMIER HD
+#EXTINF:-1 tvg-id="universalpremier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="Películas y Series",UNIVERSAL PREMIER HD
 http://8.243.126.131:8000/play/a0iq/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AMC.(Colombia).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" group-title="Películas y Series",AMC HD
+#EXTINF:-1 tvg-id="amc.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png" group-title="Películas y Series",AMC HD
 http://8.243.126.131:8000/play/a0e2/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="Películas y Series",AMC SERIES HD
+#EXTINF:-1 tvg-id="amcseries.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="Películas y Series",AMC SERIES HD
 http://8.243.126.131:8000/play/a0ld/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.TNT.Series.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="Películas y Series",TNT SERIES HD
+#EXTINF:-1 tvg-id="tntseries.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="Películas y Series",TNT SERIES HD
 http://8.243.126.131:8000/play/a0d8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="TNT.Novelas.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_novelas_latinoamerica-mediano.png" group-title="Películas y Series",TNT NOVELAS HD
+#EXTINF:-1 tvg-id="tntnovelas.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_novelas_latinoamerica-mediano.png" group-title="Películas y Series",TNT NOVELAS HD
 http://8.243.126.131:8000/play/a0om/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="Películas y Series",TNT HD
+#EXTINF:-1 tvg-id="tnt.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="Películas y Series",TNT HD
 http://8.243.126.131:8000/play/a0ij/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",SPORTV (BRASIL) HD
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",SPORTV (BRASIL) HD
 http://138.117.81.96:8000/play/a0fq/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (MÉXICO) HD
+#EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (MÉXICO) HD
 http://177.10.184.193:8000/play/a0dg/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (CHILE) HD
+#EXTINF:-1 tvg-id="espn.cl.1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (CHILE) HD 1
 http://8.243.126.131:8000/play/a0nk/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (ARGENTINA) 1HD
+#EXTINF:-1 tvg-id="espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (ARGENTINA) 1HD
 http://190.7.19.197:232/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (ECUADOR) 1HD
+#EXTINF:-1 tvg-id="espn.ec" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (ECUADOR) 1HD
 http://8.243.126.131:8000/play/a05q/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (COLOMBIA) 1HD
+#EXTINF:-1 tvg-id="espn.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (COLOMBIA) 1HD
 http://190.108.93.180:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (CHILE) HD
+#EXTINF:-1 tvg-id="espn.cl.2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="Deportes",ESPN (CHILE) HD 2
 http://170.247.204.9:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="Deportes",ESPN 2HD
+#EXTINF:-1 tvg-id="espn2.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="Deportes",ESPN 2HD
 http://8.243.126.131:8000/play/a0nl/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="Deportes",ESPN 3 HD
+#EXTINF:-1 tvg-id="espn3.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="Deportes",ESPN 3 HD
 http://181.79.87.130:8000/play/a0em/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.4.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png" group-title="Deportes",ESPN 4 HD
+#EXTINF:-1 tvg-id="espn4.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png" group-title="Deportes",ESPN 4 HD
 http://181.79.87.130:8000/play/a0b3/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png" group-title="Deportes",ESPN 5 HD
+#EXTINF:-1 tvg-id="espn5.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png" group-title="Deportes",ESPN 5 HD
 http://8.243.126.131:8000/play/a0nh/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_6-mediano.png" group-title="Deportes",ESPN 6
+#EXTINF:-1 tvg-id="espn6.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_6-mediano.png" group-title="Deportes",ESPN 6
 http://181.79.87.130:8000/play/a0e3/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_7-mediano.png" group-title="Deportes", ESPN 7 HD
+#EXTINF:-1 tvg-id="espn7.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_7-mediano.png" group-title="Deportes", ESPN 7 HD
 http://8.243.126.131:8000/play/a065/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes-mediano.png" group-title="Deportes",ESPN DEPORTES
+#EXTINF:-1 tvg-id="espndeportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_deportes-mediano.png" group-title="Deportes",ESPN DEPORTES
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/360941.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/250?cb=20220501173330&path-prefix=es" group-title="Deportes",ESPN PREMIUM
+#EXTINF:-1 tvg-id="espnpremium.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/250?cb=20220501173330&path-prefix=es" group-title="Deportes",ESPN PREMIUM
 http://190.7.19.197:232/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Deportes",TNT SPORT Premium
+#EXTINF:-1 tvg-id="tntsports.premium" tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Deportes",TNT SPORT Premium
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="Deportes",TYC SPORT ARGENTINA
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="Deportes",TYC SPORT ARGENTINA
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ufc_network-mediano.png" group-title="Deportes", UFC HD
+#EXTINF:-1 tvg-id="ufc.hd" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ufc_network-mediano.png" group-title="Deportes", UFC HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/306517.ts
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png" group-title="Deportes", DSPORTS HD
+#EXTINF:-1 tvg-id="dsports.arg.hd" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png" group-title="Deportes", DSPORTS HD
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", DSPORTS FHD
+#EXTINF:-1 tvg-id="dsports.arg.fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes", DSPORTS FHD
 http://190.108.83.69:8000/play/a0cb/index.m3u8
 
-#EXTINF:-1 tvg-id="[DTVGEN].DirecTV.Generic.uy" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png" group-title="Deportes", DSPORTS 1 opc3
+#EXTINF:-1 tvg-id="dsports.gen.uy" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png" group-title="Deportes", DSPORTS 1 opc3
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://i.ibb.co/2YhVNfdx/Direc-TV-Sports-Latin-America-2018.png" group-title="Deportes", DSPORTS
+#EXTINF:-1 tvg-id="dsports.co" tvg-logo="https://i.ibb.co/2YhVNfdx/Direc-TV-Sports-Latin-America-2018.png" group-title="Deportes", DSPORTS
 http://38.210.105.10:8000/play/a0ai/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", D$PORTS 2 HD
+#EXTINF:-1 tvg-id="dsports.2.hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", D$PORTS 2 HD
 http://190.7.19.197:232/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", D$PORTS 2 FHD
+#EXTINF:-1 tvg-id="dsports.2.fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", D$PORTS 2 FHD
 http://190.108.83.69:8000/play/a0c6/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png" group-title="Deportes", D$PORTS + HD
+#EXTINF:-1 tvg-id="dsports.plus.hd" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png" group-title="Deportes", D$PORTS + HD
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="" group-title="Deportes", D$PORTS + FHD
+#EXTINF:-1 tvg-id="dsports.plus.fhd" tvg-logo="" group-title="Deportes", D$PORTS + FHD
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="Deportes",ECDF
+#EXTINF:-1 tvg-id="ecdf.ec" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="Deportes",ECDF
 http://181.79.87.130:8000/play/a0ca/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RkMLZLmb/Disney-plus-icon.png" group-title="Películas y Series", DISNEY+ HD
+#EXTINF:-1 tvg-id="disneyplus.hd" tvg-logo="https://i.ibb.co/RkMLZLmb/Disney-plus-icon.png" group-title="Películas y Series", DISNEY+ HD
 http://daleplaytv.vip:80/live/prf010823g/oejrbnedh/541539.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png" group-title="Deportes",EVENTOS
+#EXTINF:-1 tvg-id="eventos.deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png" group-title="Deportes",EVENTOS
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Costa.Rica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png" group-title="Deportes", FOX CR
+#EXTINF:-1 tvg-id="fox.cr" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png" group-title="Deportes", FOX CR
 http://45.228.234.62:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png" group-title="Deportes", FOX GUA
+#EXTINF:-1 tvg-id="fox.gua" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png" group-title="Deportes", FOX GUA
 http://45.228.234.62:8000/play/a00o/index.m3u8
