@@ -17,6 +17,9 @@ http://205.235.6.29:8000/play/a0yf/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
+http://205.235.6.29:8000/play/a10f/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
