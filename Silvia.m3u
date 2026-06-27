@@ -17,9 +17,6 @@ http://205.235.6.29:8000/play/a0yf/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
-http://205.235.6.29:8000/play/a10f/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
@@ -129,7 +126,7 @@ http://181.78.8.199:8000/play/a0ab/index.m3u8
 http://181.78.8.199:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png",SONY HD
-http://181.78.8.199:8000/play/a0e6/index.m3u8
+http://181.78.8.199:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
 http://38.226.210.46:8000/play/a03x/index.m3u8
@@ -180,7 +177,7 @@ http://205.235.6.29:8000/play/a105/index.m3u8
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
-http://45.238.141.222:8000/play/a0pg/index.m3u8
+http://152.231.29.139:8000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.210.105.10:8000/play/a0ai/index.m3u8
@@ -188,11 +185,8 @@ http://38.210.105.10:8000/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS9).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS COL
 http://190.60.37.118:4000/play/a0ch
 
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS7).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
-http://181.224.255.210:8001/play/a0s8/index.m3u8
-
 #EXTINF:-1 tvg-id="DIRECTV.Sports.5(DTS6).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS opc 4
-http://38.224.231.47:8000/play/a055/index.m3u8
+http://38.224.231.47:8000/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS FHD opc 5
 http://190.108.83.69:8000/play/a0cb/index.m3u8
@@ -201,19 +195,29 @@ http://190.108.83.69:8000/play/a0cb/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 1 HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306883.ts
+http://152.231.29.139:8000/play/a0jk/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 HD
 http://190.108.83.69:8000/play/a0c6/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", DSPORTS 2 HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306885.ts
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 HD
+http://190.61.41.181:8000/play/a0r4/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", DSPORTS + HD
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", DSPORTS + HD
-http://152.231.29.139:8000/play/a0jk/index.m3u8
+http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
 
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="", D$PORTS + HD
-http://daleplaytv.vip:80/live/LorenaJaime17trent/xrDqNpa7d7g8/306887.ts
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
+http://167.250.223.26:9998/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS MUDNIAL
+http://152.231.29.139:8000/play/a0jj/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1879190282811363328/csJ29ep0_400x400.jpg", TIGO SPORTS MUNDIAL
+http://181.143.230.202:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
+http://205.235.6.29:8000/play/a10f/index.m3u8
+
