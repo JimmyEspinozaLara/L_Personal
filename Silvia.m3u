@@ -116,6 +116,9 @@ http://8.243.126.131:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
 http://8.243.126.131:8000/play/a0fn/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE HD
+http://38.44.109.41:8003/play/a0d0/index.m3u8
+
 #EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png",WARNER HD
 http://8.243.126.131:8000/play/a0gh/index.m3u8
 
@@ -169,6 +172,9 @@ http://205.235.6.29:8000/play/a105/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTOS
 http://205.235.6.29:8000/play/a0y3/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
+http://45.238.141.222:8000/play/a0pg/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.210.105.10:8000/play/a0ai/index.m3u8
