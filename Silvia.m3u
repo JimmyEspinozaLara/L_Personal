@@ -45,7 +45,7 @@ http://181.78.8.199:8000/play/a095/index.m3u8
 http://38.226.210.46:8000/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
-http://181.78.79.131:8000/play/a0pk
+http://38.44.109.41:8003/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-5" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
