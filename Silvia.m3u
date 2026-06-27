@@ -23,14 +23,20 @@ http://205.235.6.29:8000/play/a10f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",SPACE HD
+http://181.78.8.199:8000/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
+http://181.78.8.199:8000/play/a0cg/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/360528.ts
 
-#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",SPACE HD
-http://181.78.79.131:8000/play/a0q2
+#EXTINF:-1 tvg-id="Canal.Claro.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png",CLARO TV
+http://167.250.223.26:9998/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png",DHE HD
-http://181.78.79.131:8000/play/a0qv
+http://190.7.19.197:232/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST HD
 http://8.243.126.131:8000/play/a054/index.m3u8
@@ -45,16 +51,10 @@ http://181.78.79.131:8000/play/a0tj
 http://181.78.8.199:8000/play/a0i2/index.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
-http://38.44.109.41:8003/play/a0ez/index.m3u8
+http://190.7.19.197:232/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="+1" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Claro.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png",CLARO TV
-http://167.250.223.26:9998/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
-http://181.78.8.199:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png",UNIVERSAL HD
 http://181.78.8.199:8000/play/a09t/index.m3u8
