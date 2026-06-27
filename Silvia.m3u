@@ -14,7 +14,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-chno=8 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN HD
 http://205.235.6.29:8000/play/a0yf/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.svv" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
@@ -44,10 +44,10 @@ http://181.78.8.199:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://i.ibb.co/wrZCRhTQ/nick-sg23-logo-rgb-ea.png",Nickelodeon HD
 http://38.226.210.46:8000/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-shift="-2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://181.78.79.131:8000/play/a0pk
 
-#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-2" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
+#EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="-5" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
