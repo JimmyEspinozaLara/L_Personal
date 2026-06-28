@@ -53,6 +53,15 @@ http://167.250.223.26:9998/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="Canal.BitMe.sv" tvg-shift="+1" tvg-logo="https://i.ibb.co/7dYQqFk2/bitme-logo-by-badluckshinska-ddt8etp-pre.png",BITME HD
 http://181.78.0.156:8000/play/a03j/index.m3u8
 
+#EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",GOLDEN HD
+http://181.78.8.199:8000/play/a0cj/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
+http://8.243.126.131:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE HD
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png",UNIVERSAL HD
 http://181.78.8.199:8000/play/a09t/index.m3u8
 
@@ -115,15 +124,6 @@ http://38.224.231.47:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png",HBO SIGNATURE HD
 http://38.224.231.47:8000/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",GOLDEN HD
-http://181.78.8.199:8000/play/a0cj/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
-http://8.243.126.131:8000/play/a0fn/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE HD
-http://181.78.8.199:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png",WARNER HD
 http://181.78.8.199:8000/play/a0ia/index.m3u8
