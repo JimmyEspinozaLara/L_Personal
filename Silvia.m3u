@@ -41,8 +41,8 @@ http://8.243.126.131:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",CARTOON NETWORK HD
 http://181.78.8.199:8000/play/a095/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png",CARTOON NETWORK HD
-http://181.78.79.131:8000/play/a0tj
+#EXTINF:-1 tvg-id="Disney.Channel.co" tvg-logo="https://i.ibb.co/LDY75dcB/Disney-Channel-Germany-Logo-2014.png",DISNEY CHANNEL HD
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://i.ibb.co/wrZCRhTQ/nick-sg23-logo-rgb-ea.png",Nickelodeon HD
 http://181.78.8.199:8000/play/a0i2/index.m3u8
@@ -177,7 +177,10 @@ http://205.235.6.29:8000/play/a105/index.m3u8
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
-http://152.231.29.139:8000/play/a0ji/index.m3u8
+http://45.5.117.187:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
+http://45.5.117.188:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/541533.ts
@@ -211,6 +214,9 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", DSPORTS + HD
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
+
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX
+http://45.5.118.152:8000/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
 http://167.250.223.26:9998/play/a063/index.m3u8
