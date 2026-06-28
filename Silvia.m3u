@@ -215,6 +215,9 @@ http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
 http://167.250.223.26:9998/play/a063/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX HD
+http://45.5.117.3:4000/play/a07b/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS MUDNIAL
 http://152.231.29.139:8000/play/a0jj/index.m3u8
 
