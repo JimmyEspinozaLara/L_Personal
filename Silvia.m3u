@@ -59,6 +59,9 @@ http://181.78.8.199:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
 http://167.250.223.26:9998/play/a0qx/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",ANIMASH HD
+http://181.78.121.15:8000/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
 http://38.44.109.41:8003/play/a0ct/index.m3u8
 
@@ -183,7 +186,7 @@ http://45.5.117.187:8000/play/a077/index.m3u8
 http://45.5.117.188:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
-http://daleplaytv.vip:80/live/eloy1989/1989eloy/541533.ts
+http://181.78.21.38:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS PERU
 http://38.210.105.10:8000/play/a0ai/index.m3u8
