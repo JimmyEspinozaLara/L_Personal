@@ -30,7 +30,7 @@ http://181.78.8.199:8000/play/a0cg/index.m3u8
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/360528.ts
 
 #EXTINF:-1 tvg-id="Canal.Claro.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png",CLARO TV
-http://167.250.223.26:9998/play/a00s/index.m3u8
+http://45.5.117.3:4000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png",DHE HD
 http://167.250.223.26:9998/play/a0r2/index.m3u8
@@ -213,7 +213,7 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
-http://167.250.223.26:9998/playlist.m3u8
+http://167.250.223.26:9998/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS MUDNIAL
 http://152.231.29.139:8000/play/a0jj/index.m3u8
