@@ -98,7 +98,7 @@ http://181.78.8.199:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-shift="+2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",CINE | HBO  HD
 http://190.108.83.69:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://images.seeklogo.com/logo-png/17/2/hbo-logo-png_seeklogo-178109.png",CINE | HBO Opc 2 HD
+#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://i.ibb.co/HfqH7GV9/hbo-logo-png-transparent.png",CINE | HBO Opc 2 HD
 http://8.243.126.131:8000/play/a0f3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
@@ -156,10 +156,10 @@ http://38.226.210.46:8000/play/a03w/index.m3u8
 http://8.243.126.131:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png",RCN HD
-http://astra.fibernetisp.com.co/play/a03s/index.m3u8
+http://181.78.14.26:4000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png",CARACOL HD
-http://astra.fibernetisp.com.co/play/a03r/index.m3u8
+http://181.78.14.26:4000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN 1HD
 http://190.108.93.180:8000/play/a00a/index.m3u8
@@ -182,11 +182,11 @@ http://38.226.210.46:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
 http://38.226.210.46:8000/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS FHD
-http://190.7.19.197:232/play/a09i/index.m3u8
-
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD
 http://190.108.83.69:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS UHD
+http://38.252.215.33:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", D$PORTS 2 HD
 http://190.7.19.197:232/play/a09h/index.m3u8
@@ -200,14 +200,14 @@ http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT ARGENTINA
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://i.ibb.co/nTtQgfT/FOX-2.png", FOX +
-http://45.185.163.75:8000/play/a0if/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS MUDNIAL
 http://152.231.29.139:8000/play/a0jj/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://pbs.twimg.com/profile_images/1879190282811363328/csJ29ep0_400x400.jpg", TIGO SPORTS MUNDIAL
 http://181.143.230.202:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://i.ibb.co/nTtQgfT/FOX-2.png", FOX +
+http://45.185.163.75:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
 http://205.235.6.29:8000/play/a10f/index.m3u8
@@ -227,11 +227,11 @@ http://205.235.6.29:8000/play/a105/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTOS
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 
-#EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS9).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS UHD
-http://38.252.215.33:8000/play/a02a/index.m3u8
-
 #EXTINF:-1 tvg-id="DIRECTV.Sports.5(DTS6).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 60FPS
 http://190.60.37.118:4000/play/a0ch
+
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS FHD
+http://190.7.19.197:232/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS opc 6
 http://8.243.126.131:8000/play/a05a/index.m3u8
