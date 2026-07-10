@@ -182,8 +182,8 @@ http://181.78.78.66:8000/play/a0g2
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
 http://181.78.78.66:8000/play/a0c8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 60FPS
-http://190.60.37.118:4000/play/a0ch
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS
+http://45.71.202.124:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS UHD
 http://181.209.39.82:8000/play/a0dg/index.m3u8
@@ -239,8 +239,8 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD
 http://179.1.158.52:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD
-http://45.71.202.124:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD 60FPS
+http://190.60.37.118:4000/play/a0ch
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", DSPORTS opc 6
 http://181.209.39.82:8000/play/a0dg/index.m3u8
