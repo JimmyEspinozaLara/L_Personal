@@ -165,22 +165,22 @@ http://181.78.14.26:4000/play/a02r/index.m3u8
 http://190.108.93.180:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
-http://38.226.210.46:8000/play/a05o/index.m3u8
+http://181.78.78.66:8000/play/a0g3
 
 #EXTINF:-1 tvg-id="ESPN.3.co"tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
-http://38.226.210.46:8000/play/a037/index.m3u8
+http://181.78.78.66:8000/play/a0g5
 
 #EXTINF:-1 tvg-id="ESPN.4.co"tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
-http://38.226.210.46:8000/play/a05f/index.m3u8
+http://181.78.78.66:8000/play/a0g9
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://38.226.210.46:8000/play/a030/index.m3u8
+http://181.78.78.66:8000/play/a0g4
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
-http://38.226.210.46:8000/play/a02u/index.m3u8
+http://181.78.78.66:8000/play/a0g2
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
-http://38.226.210.46:8000/play/a042/index.m3u8
+http://181.78.78.66:8000/play/a0c8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS 60FPS
 http://190.60.37.118:4000/play/a0ch
