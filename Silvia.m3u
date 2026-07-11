@@ -215,6 +215,9 @@ http://45.185.163.75:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png",CANAL MUNDIAL 
 http://205.235.6.29:8000/play/a10f/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX FHD
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX
 http://45.5.118.152:8000/play/a0dg/index.m3u8
 
