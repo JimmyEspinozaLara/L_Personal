@@ -72,8 +72,38 @@ http://181.78.8.199:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
 http://8.243.126.131:8000/play/a0fn/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.2.sv" tvg-logo="https://i.ibb.co/S4SdmHTJ/golden-P2.png",GOLDEN PREMIER 2
+http://8.243.126.131:8000/play/a0fo/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE HD
 http://181.78.8.199:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.co" tvg-shift="+2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",CINE | HBO  HD
+http://190.108.83.69:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://i.ibb.co/HfqH7GV9/hbo-logo-png-transparent.png",CINE | HBO Opc 2 HD
+http://8.243.126.131:8000/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
+http://8.243.126.131:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png", HBO FAMILY  HD
+http://181.78.192.238:8000/play/a1kf/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png", HBO PLUS  HD
+http://8.243.126.131:8000/play/a0f5/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png",HBO XTREME HD
+http://8.243.126.131:8000/play/a0f7/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.POP.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png",HBO POP HD
+http://181.78.192.238:8000/play/a10n/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png",HBO MUNDI HD
+http://181.78.192.238:8000/play/a27i/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png",HBO SIGNATURE HD
+http://181.78.192.238:8000/play/a27h/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png",UNIVERSAL HD
 http://181.78.8.199:8000/play/a09t/index.m3u8
@@ -81,11 +111,11 @@ http://181.78.8.199:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
 http://167.250.223.26:9998/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",ANIMASH HD
-http://181.78.121.15:8000/play/a00h/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
 http://38.44.109.41:8003/play/a0ct/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",ANIMASH HD
+http://181.78.121.15:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Series.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png",TNT SERIES HD
 http://181.78.8.199:8000/play/a098/index.m3u8
@@ -108,33 +138,6 @@ http://181.78.8.199:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",CINECANAL  HD
 http://181.78.8.199:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.co" tvg-shift="+2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",CINE | HBO  HD
-http://190.108.83.69:8000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://i.ibb.co/HfqH7GV9/hbo-logo-png-transparent.png",CINE | HBO Opc 2 HD
-http://8.243.126.131:8000/play/a0f3/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://8.243.126.131:8000/play/a05o/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png", HBO FAMILY  HD
-http://38.226.210.46:8000/play/a03q/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png", HBO PLUS  HD
-http://8.243.126.131:8000/play/a0f5/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png",HBO XTREME HD
-http://8.243.126.131:8000/play/a0f7/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.POP.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png",HBO POP HD
-http://38.226.210.46:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png",HBO MUNDI HD
-http://38.224.231.47:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png",HBO SIGNATURE HD
-http://38.224.231.47:8000/play/a01g/index.m3u8
-
 #EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png",WARNER HD
 http://181.78.8.199:8000/play/a0ia/index.m3u8
 
@@ -148,24 +151,21 @@ http://181.78.8.199:8000/play/a096/index.m3u8
 http://181.78.8.199:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
-http://38.226.210.46:8000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-id="El.Gourmet.co" tvg-name="EL GOURMET" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet-mediano.png",EL GOURMET HD
-http://38.226.210.46:8000/play/a02y/index.m3u8
+http://181.78.8.199:8000/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png", NATGEO HD
-http://38.226.210.46:8000/play/a03z/index.m3u8
+http://181.78.8.199:8000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.co" tvg-name="HISTORY HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/historia_espana-mediano.png",HISTORY HD
-http://38.226.210.46:8000/play/a03y/index.m3u8
+http://181.78.8.199:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="History.2.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png",History 2 HD
-http://38.226.210.46:8000/play/a04p/index.m3u8
+http://181.78.8.199:8000/play/a0cq/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png",ANIMAL Planet HD.
-http://38.226.210.46:8000/play/a03w/index.m3u8
+http://181.78.8.199:8000/play/a0by/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru-mediano.png",AMÉRICA TV HD
+#EXTINF:-1 tvg-id="AMÉRICA.TELEVISIÓN.HD.(América.HD).pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru-mediano.png",AMÉRICA TV HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN 1HD
