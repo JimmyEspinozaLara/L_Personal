@@ -111,8 +111,8 @@ http://181.78.8.199:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
 http://167.250.223.26:9998/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
-http://38.44.109.41:8003/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
+http://190.61.34.164:8000/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",ANIMASH HD
 http://181.78.121.15:8000/play/a00h/index.m3u8
