@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png",CARACOL HD
-http://181.78.14.26:4000/play/a02r/index.m3u8
+http://152.231.29.139:8000/play/a0jy/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-chno=2 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png",RCN HD
-http://181.78.14.26:4000/play/a02t/index.m3u8
+http://152.231.29.139:8000/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS HD HD
 http://205.235.6.29:8000/play/a0yi/index.m3u8
