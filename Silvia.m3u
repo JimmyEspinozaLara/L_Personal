@@ -214,7 +214,7 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 http://45.5.117.188:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
-http://181.78.78.66:8000/play/a01n
+http://181.78.78.66:8000/play/a001
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS 
 http://152.231.29.139:8000/play/a0jj/index.m3u8
