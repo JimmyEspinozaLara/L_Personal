@@ -13,10 +13,10 @@ http://152.231.29.139:8000/play/a0jv/index.m3u8
 http://205.235.6.29:8000/play/a0yi/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS HD
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+http://205.235.6.29:8000/play/a0yd/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png",CHILE VISIÓN HD
-http://181.119.185.32:8000/play/a026/index.m3u8?hls
+http://205.235.6.29:8000/play/a10w/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" tvg-chno=7 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png",ECUADOR TV HD
 http://181.78.192.238:8000/play/a1w8/index.m3u8
@@ -174,8 +174,11 @@ http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru-mediano.png",AMÉRICA TV HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN 1HD
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
 http://190.108.93.180:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN CHILE
+http://179.1.146.22:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
 http://181.78.14.26:4000/play/a02p/index.m3u8
@@ -210,32 +213,29 @@ http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", D$PORTS + FHD
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
-http://45.5.117.188:8000/play/a077/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
 http://181.78.78.66:8000/play/a001
 
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png", TIGO SPORTS 
-http://152.231.29.139:8000/play/a0jj/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://pbs.twimg.com/profile_images/1879190282811363328/csJ29ep0_400x400.jpg", TIGO SPORTS 
-http://181.143.230.202:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORTS BOLIVIA 
+http://205.235.6.29:8000/play/a10f/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.FOX+.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_plus-mediano.png", FOX +
 http://181.78.192.238:8000/play/a2hq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z16hM57H/fifa-world-cup-2026-white-9ba8a004.png", TIGO SPORTS BOLIVIA 
-http://181.78.192.238:8000/play/a2ht/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png", CLARO SPORTS
+http://181.78.192.238:8000/play/a2dj/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9973GZ0v/L1-MAX-LOGO.png", LIGA 1 MAX
+http://45.185.163.75:8000/play/a0g6/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
+http://45.5.117.188:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Fox.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX
 http://45.5.118.152:8000/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX GUA
 http://167.250.223.26:9998/play/a063/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX HD
-http://45.5.117.3:4000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
 http://205.235.6.29:8000/play/a105/index.m3u8
