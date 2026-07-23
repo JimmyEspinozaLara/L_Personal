@@ -112,7 +112,7 @@ http://181.78.192.238:8000/play/a27h/index.m3u8
 http://181.78.8.199:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
-http://167.250.223.26:9998/play/a0qx/index.m3u8
+http://45.188.229.33:8000/play/a12p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png",AMC SERIES HD
 http://181.119.84.106:8000/play/a02s/index.m3u8
@@ -174,11 +174,17 @@ http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru-mediano.png",AMÉRICA TV HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
-http://190.108.93.180:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
+http://45.188.229.33:8000/play/a1di/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",TNT SPORTS ARGENTINA
+http://181.209.39.82:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN CHILE
 http://179.1.146.22:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
+http://181.78.14.26:4000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
 http://181.78.14.26:4000/play/a02p/index.m3u8
@@ -216,11 +222,14 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
 http://181.78.78.66:8000/play/a001
 
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.ibb.co/QgXGBHN/Win-Sports2022.png", WIN SPORTS
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.ibb.co/JwCkXnKy/Win-Sports-logo.png", WIN SPORTS+
+http://190.60.37.118:4000/play/a0bw
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORTS BOLIVIA 
 http://181.78.192.238:8000/play/a2ht/index.m3u8
-
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.ibb.co/QgXGBHN/Win-Sports2022.png", WIN SPORTS
-http://181.225.190.242:8000/play/a03r
 
 #EXTINF:-1 tvg-id="Canal.FOX+.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_plus-mediano.png", FOX +
 http://181.78.192.238:8000/play/a2hq/index.m3u8
