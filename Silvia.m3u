@@ -171,8 +171,8 @@ http://181.78.8.199:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png",ANIMAL Planet HD.
 http://181.78.8.199:8000/play/a0by/index.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru-mediano.png",AMÉRICA TV HD
-http://8.243.126.131:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
+http://181.78.78.66:8000/play/a001
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
 http://45.188.229.33:8000/play/a1di/index.m3u8
@@ -184,25 +184,25 @@ http://181.209.39.82:8000/play/a06z/index.m3u8
 http://179.1.146.22:8000/play/a0hk/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
-http://181.78.14.26:4000/play/a009/index.m3u8
+http://181.225.190.242:8000/play/a01l
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
-http://181.78.14.26:4000/play/a02p/index.m3u8
+http://181.78.192.238:8000/play/a10m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.co"tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
-http://181.78.14.26:4000/play/a02q/index.m3u8
+http://181.78.192.238:8000/play/a28h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.co"tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
 http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://181.78.14.26:4000/play/a03x/index.m3u8
+http://181.225.190.242:8000/play/a01p
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
-http://181.78.14.26:4000/play/a03y/index.m3u8
+http://181.78.192.238:8000/play/a289/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
-http://181.78.14.26:4000/play/a042/index.m3u8
+http://181.78.192.238:8000/play/a11i/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS
 http://45.71.202.124:8000/play/a001/index.m3u8
@@ -218,9 +218,6 @@ http://38.210.105.10:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", D$PORTS + FHD
 http://190.108.83.69:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
-http://181.78.78.66:8000/play/a001
 
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.ibb.co/QgXGBHN/Win-Sports2022.png", WIN SPORTS
 http://181.78.8.199:8000/play/a0cc/index.m3u8
