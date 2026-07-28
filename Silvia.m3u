@@ -30,16 +30,16 @@ http://45.167.2.101:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b237737f2bf8617ea760bb87341e853e.png",OROMAR TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wZzD2mLp/oromartvec.png",OROMAR TV HD
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="DHE.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png",DHE HD
-http://167.250.223.26:9998/play/a0r2/index.m3u8
+#EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle-mediano.png",DW
+http://181.78.192.238:8000/play/a27m/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO HD
 http://45.5.117.187:8000/play/a077/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/7f8612a1feb84aee10ff3ca1d386205f.png",TVC HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cKcDbQXd/tvcec.png",TVC HD
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal.Claro.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png",CLARO TV
@@ -171,6 +171,9 @@ http://181.78.8.199:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png",ANIMAL Planet HD.
 http://181.78.8.199:8000/play/a0by/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Panregional).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png",ID
+http://181.79.87.132:8000/play/a0b0/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
 http://181.78.78.66:8000/play/a001
 
@@ -197,6 +200,9 @@ http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
 http://181.78.14.26:4000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Sudamérica).sv"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 CHILE
+http://181.78.192.238:8000/play/a28b/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
 http://181.78.192.238:8000/play/a289/index.m3u8
