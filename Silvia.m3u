@@ -3,7 +3,7 @@
 http://45.5.117.187:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-chno=2 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+http://45.188.229.33:8000/play/a1gj/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png",UNIVERSAL HD
 http://181.78.192.238:8000/play/a2ey/index.m3u8
@@ -39,10 +39,10 @@ http://181.79.87.132:8000/play/a02r/index.m3u8
 http://205.235.6.29:8000/play/a0yh/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png",SONY HD
-http://181.78.8.199:8000/play/a0ao/index.m3u8
+http://45.188.229.33:8000/play/a1b2/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.MOVIES.HD.uy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png",SONY MOVIES HD
-http://181.78.0.156:8000/play/a02b/index.m3u8
+http://45.188.229.33:8000/play/a1b9/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
 http://181.78.192.238:8000/play/a25a/index.m3u8
@@ -51,7 +51,7 @@ http://181.78.192.238:8000/play/a25a/index.m3u8
 http://181.78.192.238:8000/play/a2eg/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",CARTOON NETWORK HD
-http://138.94.3.106:8000/play/a00j/index.m3u8
+http://45.188.229.33:8000/play/a1j1/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.co" tvg-logo="https://i.ibb.co/LDY75dcB/Disney-Channel-Germany-Logo-2014.png",DISNEY CHANNEL HD
 http://181.78.192.238:8000/play/a1t8/index.m3u8
@@ -69,7 +69,7 @@ http://181.78.0.156:8000/play/a03j/index.m3u8
 http://181.78.121.15:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-logo="https://i.ibb.co/JWZDDTgv/star-channel.png",STAR CHANEL HD
-http://181.78.0.156:8000/play/a004/index.m3u8
+http://45.188.229.33:8000/play/a10i/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",GOLDEN HD
 http://181.78.192.238:8000/play/a14d/index.m3u8
@@ -90,7 +90,7 @@ http://190.108.83.69:8000/play/a035/index.m3u8
 http://181.79.87.132:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://181.78.0.156:8000/play/a05b/index.m3u8
+http://38.52.208.106:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NgB7Ypg3/HBO-2-Logo-Poland.png",HBO 2 
 http://181.78.192.238:8000/play/a2gm/index.m3u8
@@ -98,8 +98,8 @@ http://181.78.192.238:8000/play/a2gm/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png", HBO FAMILY  HD
 http://45.185.163.75:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png", HBO PLUS  HD
-http://181.78.0.156:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png", HBO PLUS
+http://45.188.229.33:8000/play/a1km/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png",HBO XTREME HD
 http://181.78.192.238:8000/play/a1jm/index.m3u8
@@ -173,6 +173,9 @@ http://181.79.87.132:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.ibb.co/QgXGBHN/Win-Sports2022.png", WIN SPORTS
 http://138.94.3.106:8000/play/a04n/index.m3u8
 
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.ibb.co/QgXGBHN/Win-Sports2022.png", WIN SPORTS HD
+http://181.78.8.199:8000/play/a06v/index.m3u8
+
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="https://i.ibb.co/JwCkXnKy/Win-Sports-logo.png", WIN SPORTS+
 http://190.60.37.118:4000/play/a0bw
 
@@ -198,7 +201,7 @@ http://181.78.192.238:8000/play/a28h/index.m3u8
 http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://181.78.14.26:4000/play/a03x/index.m3u8
+http://181.78.192.238:8000/play/a1ns/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
 http://181.78.192.238:8000/play/a289/index.m3u8
