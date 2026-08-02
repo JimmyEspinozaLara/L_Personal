@@ -180,7 +180,7 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
-http://45.188.229.33:8000/play/a1di/index.m3u8
+http://181.209.38.115:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",TNT SPORTS ARGENTINA
 http://181.209.38.115:8000/play/a00j/index.m3u8
