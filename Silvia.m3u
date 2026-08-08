@@ -180,7 +180,7 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
-http://181.209.38.115:8000/play/a00f/index.m3u8
+http://181.78.192.238:8000/play/a1ke/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",TNT SPORTS ARGENTINA
 http://181.209.38.115:8000/play/a00j/index.m3u8
@@ -252,7 +252,7 @@ http://167.250.223.26:9998/play/a063/index.m3u8
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
-http://181.79.87.132:8000/play/a0ca/index.m3u8
+http://daleplaytv.vip:80/live/eloy1989/1989eloy/401842.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTOS
 http://45.71.202.124:8000/play/a001/index.m3u8
@@ -286,3 +286,9 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", DSPORTS + HD
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
+http://181.209.38.115:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",TNT SPORTS ARGENTINA
+http://daleplaytv.vip:80/live/eloy1989/1989eloy/81251.ts
