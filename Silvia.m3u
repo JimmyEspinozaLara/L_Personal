@@ -192,7 +192,7 @@ http://179.1.146.22:8000/play/a0hk/index.m3u8
 http://45.70.201.81:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
-http://181.78.192.238:8000/play/a10m/index.m3u8
+http://45.188.229.33:8000/play/a138/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.co"tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
 http://181.78.192.238:8000/play/a28h/index.m3u8
@@ -201,13 +201,13 @@ http://181.78.192.238:8000/play/a28h/index.m3u8
 http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://181.78.192.238:8000/play/a1ns/index.m3u8
+http://45.188.229.33:8000/play/a12n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
 http://181.78.192.238:8000/play/a289/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
-http://181.78.192.238:8000/play/a11i/index.m3u8
+http://45.188.229.33:8000/play/a1j0/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS.HD(DTVSHD).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS
 http://205.235.6.29:8000/play/a0y3/index.m3u8
