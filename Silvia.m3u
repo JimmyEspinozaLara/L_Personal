@@ -45,7 +45,7 @@ http://45.188.229.33:8000/play/a1b2/index.m3u8
 http://45.188.229.33:8000/play/a1b9/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",AMC HD
-http://181.78.192.238:8000/play/a25a/index.m3u8
+http://45.188.229.33:8000/play/a12p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST HD
 http://181.78.192.238:8000/play/a2eg/index.m3u8
@@ -54,10 +54,10 @@ http://181.78.192.238:8000/play/a2eg/index.m3u8
 http://45.188.229.33:8000/play/a1j1/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.co" tvg-logo="https://i.ibb.co/LDY75dcB/Disney-Channel-Germany-Logo-2014.png",DISNEY CHANNEL HD
-http://181.78.192.238:8000/play/a1t8/index.m3u8
+http://45.188.229.33:8000/play/a10e/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://i.ibb.co/wrZCRhTQ/nick-sg23-logo-rgb-ea.png",Nickelodeon HD
-http://181.78.192.238:8000/play/a28m/index.m3u8
+http://45.188.229.33:8000/play/a1an/index.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://45.185.163.75:8000/play/a01l/index.m3u8
@@ -72,16 +72,16 @@ http://181.78.121.15:8000/play/a00h/index.m3u8
 http://45.188.229.33:8000/play/a10i/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",GOLDEN HD
-http://181.78.192.238:8000/play/a14d/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
-http://181.78.192.238:8000/play/a2dx/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.2.sv" tvg-logo="https://i.ibb.co/S4SdmHTJ/golden-P2.png",GOLDEN PREMIER 2
-http://181.78.192.238:8000/play/a2dy/index.m3u8
+http://45.188.229.33:8000/play/a0xm/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE HD
-http://181.78.192.238:8000/play/a1ll/index.m3u8
+http://45.188.229.33:8000/play/a0y0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GOLDEN PREMIER
+http://45.185.163.75:8000/play/a0fv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.2.sv" tvg-logo="https://i.ibb.co/S4SdmHTJ/golden-P2.png",GOLDEN PREMIER 2
+http://45.185.163.75:8000/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.co" tvg-shift="+2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",HBO  HD
 http://190.108.83.69:8000/play/a035/index.m3u8
@@ -227,11 +227,14 @@ http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", D$PORTS + FHD
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORTS BOLIVIA 
-http://181.78.192.238:8000/play/a2ht/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
+http://205.235.6.29:8000/play/a105/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORT
 http://181.78.78.66:8000/play/a001
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORTS BOLIVIA 
+http://181.78.192.238:8000/play/a2ht/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.FOX+.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_plus-mediano.png", FOX +
 http://181.78.192.238:8000/play/a2hq/index.m3u8
@@ -253,9 +256,6 @@ http://167.250.223.26:9998/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tigo.Sports.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX FHD
 http://45.167.2.101:8000/play/a0pp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
-http://daleplaytv.vip:80/live/eloy1989/1989eloy/401842.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTOS
 http://45.71.202.124:8000/play/a001/index.m3u8
