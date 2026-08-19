@@ -48,7 +48,7 @@ http://45.188.229.33:8000/play/a1b9/index.m3u8
 http://45.188.229.33:8000/play/a12p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Tooncast.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast.png",TOONCAST HD
-http://181.78.192.238:8000/play/a2eg/index.m3u8
+http://190.108.93.180:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",CARTOON NETWORK HD
 http://45.188.229.33:8000/play/a1j1/index.m3u8
@@ -188,6 +188,9 @@ http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN CHILE
 http://179.1.146.22:8000/play/a0hk/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",ESPN PREMIUM CHILE
+http://45.188.229.33:8000/play/a13l/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
 http://138.94.3.106:8000/play/a02l/index.m3u8
 
@@ -195,7 +198,7 @@ http://138.94.3.106:8000/play/a02l/index.m3u8
 http://190.108.93.180:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
-http://181.78.14.26:4000/play/a02p/index.m3u8
+http://190.108.93.180:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.co"tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
 http://181.78.14.26:4000/play/a02q/index.m3u8
@@ -204,7 +207,7 @@ http://181.78.14.26:4000/play/a02q/index.m3u8
 http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://181.78.14.26:4000/play/a03x/index.m3u8
+http://190.108.93.180:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6
 http://181.78.192.238:8000/play/a289/index.m3u8
