@@ -5,8 +5,8 @@ http://45.5.117.187:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-chno=2 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
 http://45.188.229.33:8000/play/a1gj/index.m3u8
 
-#EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png",UNIVERSAL HD
-http://45.188.229.33:8000/play/a1kx/index.m3u8
+#EXTINF:-1 tvg-id="A&E.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png",A&E HD
+http://181.79.87.132:8000/play/a0e4/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS HD HD
 http://205.235.6.29:8000/play/a0yi/index.m3u8
@@ -130,6 +130,9 @@ http://181.78.8.199:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png",WARNER HD
 http://181.78.8.199:8000/play/a0ia/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png",UNIVERSAL HD
+http://45.188.229.33:8000/play/a1kx/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",SPACE HD
 http://181.78.8.199:8000/play/a096/index.m3u8
