@@ -14,11 +14,11 @@ http://205.235.6.29:8000/play/a0yi/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS HD
 http://205.235.6.29:8000/play/a0yd/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Channel.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel HD
 http://205.235.6.29:8000/play/a0yq/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" tvg-chno=7 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png",ECUADOR TV HD
-http://45.188.229.33:8000/play/a0va/index.m3u8
+http://205.235.6.29:8000/play/a0ye/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-chno=8 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN HD
 http://205.235.6.29:8000/play/a0yf/index.m3u8
