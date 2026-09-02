@@ -227,6 +227,9 @@ http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/zWsF1t3L/1613.png", D$PORTS + FHD
 http://daleplaytv.vip:80/live/eloy1989/1989eloy/54472.ts
 
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",TYC SPORTS
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png",ECDF
 http://181.79.87.132:8000/play/a0ca/index.m3u8
 
@@ -237,7 +240,7 @@ http://138.94.3.106:8000/play/a04n/index.m3u8
 http://181.79.87.132:8000/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.FOX+.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_plus-mediano.png", FOX +
-http://181.78.192.238:8000/play/a2hq/index.m3u8
+http://45.185.163.75:8000/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Fox.(Guatemala).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox-mediano.png", FOX
 http://45.5.118.152:8000/play/a0dg/index.m3u8
