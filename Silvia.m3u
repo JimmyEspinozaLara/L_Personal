@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="ANIMAL Planet HD." tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png",ANIMAL Planet 
-http://181.78.8.199:8000/play/a0by/index.m3u8
+http://181.79.87.132:8000/play/a0ap/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-chno=2 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-chno=2 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA
 http://45.188.229.33:8000/play/a0vj/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png",A&E
 http://181.79.87.132:8000/play/a0e4/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS
+#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS
 http://205.235.6.29:8000/play/a0yi/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS
@@ -17,16 +17,16 @@ http://205.235.6.29:8000/play/a0yd/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png",Discovery Channel
 http://45.188.229.33:8000/play/a1jw/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" tvg-chno=7 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png",ECUADOR TV
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-chno=7 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png",ECUADOR TV
 http://205.235.6.29:8000/play/a0ye/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-chno=8 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN
+#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" tvg-chno=8 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN
 http://205.235.6.29:8000/play/a0yf/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle-mediano.png",DW
 http://45.188.229.33:8000/play/a0xb/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.sv" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
+#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-chno=10 tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png",TC TELEVISIÓN 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wZzD2mLp/oromartvec.png",OROMAR TV
@@ -177,7 +177,7 @@ http://45.188.229.33:8000/play/a1ej/index.m3u8
 http://45.5.117.187:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",ESPN PREMIUM CHILE
-http://45.188.229.33:8000/play/a13l/index.m3u8
+http://45.185.163.75:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
 http://45.188.229.33:8000/play/a1di/index.m3u8
@@ -186,7 +186,7 @@ http://45.188.229.33:8000/play/a1di/index.m3u8
 http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN CHILE
-http://179.1.146.22:8000/play/a0hk/index.m3u8
+http://45.185.163.75:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
 http://209.61.12.128:9000/play/a06z/index.m3u8
@@ -197,10 +197,13 @@ http://190.108.93.180:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
 http://190.108.93.180:8000/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.3.co"tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Ecuador).ec" tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2 (ECUADOR)
+http://45.185.163.75:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec" tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
 http://45.188.229.33:8000/play/a12v/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.4.co"tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Ecuador).ec" tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
 http://45.185.163.75:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
