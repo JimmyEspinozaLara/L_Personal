@@ -8,7 +8,7 @@ http://45.188.229.33:8000/play/a0vj/index.m3u8
 #EXTINF:-1 tvg-id="A&E.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png",A&E
 http://181.79.87.132:8000/play/a0e4/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.ec" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS
+#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-chno=4 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS
 http://205.235.6.29:8000/play/a0yi/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS
