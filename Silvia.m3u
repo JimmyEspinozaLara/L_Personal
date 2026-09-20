@@ -272,7 +272,7 @@ http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTOS
 http://181.78.197.59:8000/play/zapping/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTO 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/planeta_futbol-mediano.png",EVENTO
 http://daleplaytv.vip:80/live/CristinaG/A2Dj6jLug3/306517.ts
 
 #EXTINF:-1 tvg-id="DIRECTV.SPORTS(DTS7).co" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS HD
