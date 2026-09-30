@@ -170,6 +170,12 @@ http://45.188.229.33:8000/play/a12p/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png",CHILE VISIÓN
 http://205.235.6.29:8000/play/a10w/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Mega.(Chile).cl" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png",MEGA CHILE
+http://45.188.229.33:8000/play/a13b/index.m3u8
+
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-chno=5 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png",AMÉRICA PERU
+http://205.235.6.29:8000/play/a0ut/index.m3u8
+
 #EXTINF:-1 tvg-id="Comedy.Central.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/comedy_central_espana-mediano.png",COMEDY CENTRAL
 http://45.188.229.33:8000/play/a1ej/index.m3u8
 
