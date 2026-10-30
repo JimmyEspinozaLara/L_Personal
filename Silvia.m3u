@@ -192,10 +192,10 @@ http://45.188.229.33:8000/play/a1di/index.m3u8
 http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",ESPN CHILE
-http://45.185.163.75:8000/play/a038/index.m3u8
+http://181.119.185.32:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
-http://209.61.12.128:9000/play/a06z/index.m3u8
+http://179.43.96.253:8000/play/a2d0/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA
 http://190.108.93.180:8000/play/a00a/index.m3u8
@@ -307,7 +307,7 @@ http://daleplaytv.vip:80/live/eloy1989/1989eloy/81251.ts
 http://138.94.3.106:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
-http://181.78.14.26:4000/play/a009/index.m3u8
+http://209.61.12.128:9000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
 http://181.119.203.39:8000/play/a0jq
