@@ -8,7 +8,7 @@ http://45.188.229.33:8000/play/a0vj/index.m3u8
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png", NATGEO HD
 http://181.79.87.132:8000/play/a0as/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS HD HD
+#EXTINF:-1 tvg-id="Canal.RTS.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rts-mediano.png",RTS HD HD
 http://205.235.6.29:8000/play/a0yi/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Teleamazonas.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleamazonas-mediano.png",TELEAMAZONAS HD
@@ -44,7 +44,7 @@ http://179.43.96.253:8000/play/a22p/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Nickelodeon.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png",Nickelodeon HD
 http://179.43.96.253:8000/play/a1tb/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Adult.Swim.(Uruguay).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png",ADULT SWIM HD
+#EXTINF:-1 tvg-id="Canal.Adult.Swim.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adult_swim-mediano.png",ADULT SWIM HD
 http://179.43.96.253:8000/play/a22v/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Star.Channel.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png",STAR CHANEL HD
@@ -59,7 +59,7 @@ http://181.79.87.132:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",HBO  HD
 http://179.43.96.253:8000/play/a1yj/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",HBO 2 HD
+#EXTINF:-1 tvg-id="Canal.HBO.(Chile).sv" tvg-logo="https://i.ibb.co/HfqH7GV9/hbo-logo-png-transparent.png",HBO 2 HD
 http://181.79.87.132:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png", HBO FAMILY  HD
@@ -98,5 +98,5 @@ http://181.79.87.132:8000/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_novelas_latinoamerica-mediano.png",TNT NOVELAS HD
 http://181.79.87.132:8000/play/a0el/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png",SONY TV HD
+#EXTINF:-1 tvg-id="Canal.Sony.Centro.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png",SONY TV HD
 http://179.43.96.253:8000/play/a1w3/index.m3u8
