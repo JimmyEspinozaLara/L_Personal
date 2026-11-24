@@ -18,7 +18,7 @@ http://205.235.6.29:8000/play/a0yd/index.m3u8
 http://181.79.87.132:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuador.TV.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv-mediano.png",ECUADOR TV HD
-http://45.188.229.33:8000/play/a1jw/index.m3u8
+http://205.235.6.29:8000/play/a0ye/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Gamavisión.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gamavision-mediano.png",GAMAVISIÓN HD
 http://205.235.6.29:8000/play/a0yf/index.m3u8
@@ -74,7 +74,7 @@ http://179.43.96.253:8000/play/a1yu/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png",HBO POP HD
 http://179.43.96.253:8000/play/a24u/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.Mundi.vs" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png",HBO MUNDI HD
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png",HBO MUNDI HD
 http://179.43.96.253:8000/play/a2at/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Studio.Universal.(Panregional).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png", STUDIO UNIVERSAL
@@ -100,3 +100,24 @@ http://181.79.87.132:8000/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Sony.Centro.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png",SONY TV HD
 http://179.43.96.253:8000/play/a1w3/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Colombia).sv"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN
+http://179.43.96.253:8000/play/a24x/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Colombia).sv"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
+http://179.43.96.253:8000/play/a1ys/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
+http://179.43.96.253:8000/play/a2c6/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Sur).sv" tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
+http://179.43.96.253:8000/play/a21y/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(Sudamérica).sv"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
+http://179.43.96.253:8000/play/a2c4/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6 HD
+http://179.43.96.253:8000/play/a1y9/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.7.(Sudamérica).sv"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
+http://179.43.96.253:8000/play/a1ur/index.m3u8
