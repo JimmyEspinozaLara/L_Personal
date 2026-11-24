@@ -117,7 +117,7 @@ http://190.108.83.69:8000/play/a035/index.m3u8
 http://181.79.87.132:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",HBO 2 HD
-http://38.52.208.106:8000/play/a00l/index.m3u8
+http://181.78.197.59:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NgB7Ypg3/HBO-2-Logo-Poland.png",HBO 2 
 http://45.188.229.33:8000/play/a1cz/index.m3u8
@@ -200,6 +200,9 @@ http://179.43.96.253:8000/play/a2d0/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA
 http://190.108.93.180:8000/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA Op 2
+http://181.78.197.59:8000/play/a0ff/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
 http://179.43.96.253:8000/play/a1ys/index.m3u8
 
@@ -219,7 +222,7 @@ http://190.108.93.180:8000/play/a02r/index.m3u8
 http://45.188.229.33:8000/play/a12h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
-http://45.188.229.33:8000/play/a1j0/index.m3u8
+http://181.78.197.59:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS
 http://191.97.61.32:8000/play/a08t/index.m3u8
