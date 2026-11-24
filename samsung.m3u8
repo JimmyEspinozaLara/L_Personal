@@ -3,7 +3,7 @@
 http://181.79.87.132:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
-http://45.188.229.33:8000/play/a0vj/index.m3u8
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png", NATGEO HD
 http://181.79.87.132:8000/play/a0as/index.m3u8
@@ -48,15 +48,15 @@ http://179.43.96.253:8000/play/a1tb/index.m3u8
 http://179.43.96.253:8000/play/a22v/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Star.Channel.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png",STAR CHANEL HD
-http://181.79.87.132:8000/play/a0dn/index.m3u8
+http://181.78.197.59:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Cinemax.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png",CINEMAX HD
 http://181.79.87.132:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Cinecanal.(Sur).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",CINECANAL  HD
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(Pacífico).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",CINECANAL  HD
 http://181.79.87.132:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.HBO.(Latinoamérica).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",HBO  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",HBO  HD
 http://179.43.96.253:8000/play/a1yj/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.(Chile).sv" tvg-logo="https://i.ibb.co/HfqH7GV9/hbo-logo-png-transparent.png",HBO 2 HD
