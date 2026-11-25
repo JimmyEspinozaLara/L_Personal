@@ -90,13 +90,13 @@ http://45.188.229.33:8000/play/a0u2/index.m3u8
 http://45.188.229.33:8000/play/a1kx/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png",  UNIVERSAL CINEMA
-http://45.188.229.33:8000/play/a1lj/index.m3u8
+http://38.210.105.10:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png",  UNIVERSAL PREMIERE
-http://45.188.229.33:8000/play/a0u4/index.m3u8
+http://45.5.117.99:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Universal.Comedy.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_comedy-mediano.png",  UNIVERSAL COMEDY
-http://181.79.87.132:8000/play/a0dd/index.m3u8
+http://45.130.161.15:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN.HD.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",GOLDEN
 http://45.188.229.33:8000/play/a0xm/index.m3u8
@@ -182,9 +182,6 @@ http://45.188.229.33:8000/play/a1ej/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png",TELEMUNDO
 http://45.5.117.187:8000/play/a077/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",ESPN PREMIUM CHILE
-http://179.1.158.52:8000/play/a0cy/index.m3u8
-
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/YxPLD5B/ESPN-Premium-logo.png",ESPN PREMIUN ARGENTINA
 http://45.188.229.33:8000/play/a1di/index.m3u8
 
@@ -195,37 +192,34 @@ http://181.209.38.115:8000/play/a00j/index.m3u8
 http://181.119.185.32:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN ECUADOR
-http://179.43.96.253:8000/play/a2d0/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA
 http://190.108.93.180:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA Op 2
-http://181.78.197.59:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png",ESPN COMLOMBIA
+http://190.60.32.178:8178/play/a0kr/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.co"tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2HD
-http://179.43.96.253:8000/play/a1ys/index.m3u8
+http://190.60.32.178:8178/play/a0lw/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Ecuador).ec" tvg-logo="https://i.ibb.co/ymqhTj22/espn-2-v02.png",ESPN 2 (ECUADOR)
 http://45.185.163.75:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec" tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 HD
-http://45.188.229.33:8000/play/a12v/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec" tvg-logo="https://i.ibb.co/KjzXGpwg/logo-rojo-espn3.png",ESPN 3 Op2
-http://179.43.96.253:8000/play/a2c6/index.m3u8
+http://190.60.32.178:8178/play/a0mo/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.4.(Ecuador).ec" tvg-logo="https://i.ibb.co/BVJbgqhw/espn-4.png",ESPN 4 HD
-http://191.97.61.32:8000/play/a09a/index.m3u8
+http://190.60.32.178:8178/play/a0ln/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.5.co"tvg-logo="https://i.ibb.co/JwG7PjsD/logo-espn5-rojo-1.png",ESPN 5 HD
-http://190.108.93.180:8000/play/a02r/index.m3u8
+http://190.60.32.178:8178/play/a0mr/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.6.HD.co"tvg-logo="https://i.ibb.co/fz0hT5JK/logo-espn6-rojo-1-1.png",ESPN 6 HD
-http://45.188.229.33:8000/play/a12h/index.m3u8
+http://190.60.32.178:8178/play/a0mq/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.7.HD.co"tvg-logo="https://i.ibb.co/B5xSpZMv/logo-espn7-rojo.png", ESPN 7 HD
-http://181.78.197.59:8000/play/a06a/index.m3u8
+http://190.60.32.178:8178/play/a0hs/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.Premium.(Chile).sv"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",ESPN PREMIUM CHILE
+http://179.1.158.52:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://imagenes.gatotv.com/guias_tv/claros/miniatura/directv.png", DSPORTS
 http://191.97.61.32:8000/play/a08t/index.m3u8
