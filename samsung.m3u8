@@ -3,7 +3,7 @@
 http://181.79.87.132:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png",ECUAVISA HD
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+http://181.78.197.59:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(Centro).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png", NATGEO HD
 http://181.79.87.132:8000/play/a0as/index.m3u8
