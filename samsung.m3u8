@@ -51,7 +51,7 @@ http://179.43.96.253:8000/play/a22v/index.m3u8
 http://181.78.197.59:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Cinemax.(Chile).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png",CINEMAX HD
-http://181.79.87.132:8000/play/a02r/index.m3u8
+http://179.43.96.253:8000/play/a26k/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Cinecanal.(Pacífico).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png",CINECANAL  HD
 http://181.79.87.132:8000/play/a0au/index.m3u8
@@ -89,7 +89,7 @@ http://179.43.96.253:8000/play/a2b0/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",GOLDEN EDGE
 http://179.43.96.253:8000/play/a1zd/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TNT.(Sur).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",TNT HD
+#EXTINF:-1 tvg-id="Canal.TNT.(Pacífico).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",TNT HD
 http://181.79.87.132:8000/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TNT.Series.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png",TNT SERIES HD
